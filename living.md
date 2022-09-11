@@ -1,3 +1,11 @@
+[Healthy Living Guide 2020/2021, Harvard T.H.CHAN](https://www.hsph.harvard.edu/nutritionsource/2021/01/19/healthy-living-guide-2020-2021/)
+
+[程序员延寿指南](https://github.com/geekan/HowToLiveLonger)  
+收集所有已证明，显著影响ACM的活动。（具有实际意义）    
+
+[程序员防猝死指南](https://www.cnblogs.com/anding/p/16482341.html)
+主要是围绕健身周围的一系列知识和实用的活动指南。  
+
 # 压力管理
 
 [哈佛幸福课]()
@@ -82,10 +90,6 @@
 每天有200g的蛋白质被转化。 
 中低强度的耐力训练消耗更多的脂肪酸供能。  
 各国营养学会基本上都推荐50-10-30（碳水-蛋白质-脂肪）的饮食结构。 
-
-[程序员防猝死指南](https://www.cnblogs.com/anding/p/16482341.html)
-
-[Healthy Living Guide 2020/2021, Harvard T.H.CHAN](https://www.hsph.harvard.edu/nutritionsource/2021/01/19/healthy-living-guide-2020-2021/)
 
 # 哲学、人生
 
