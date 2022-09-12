@@ -3,18 +3,26 @@
 [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)  
 收集所有已证明，显著影响ACM的活动。（具有实际意义）    
 
-[程序员防猝死指南](https://www.cnblogs.com/anding/p/16482341.html)
+[程序员防猝死指南](https://www.cnblogs.com/anding/p/16482341.html)  
 主要是围绕健身周围的一系列知识和实用的活动指南。  
 
 # 压力管理
 
-[哈佛幸福课]()
+[哈佛幸福课]()  
 人们很容易忽略一些明显的问题。  
 积极心理学的本质就是健康本源。
 健康模型更注重培养能力，而不只是改正错误。  
 心理学关注的不仅仅是疾病和健康，还包括工作、教育、洞察力、爱、成长和玩乐。  
 
 [生命安宁](https://book.douban.com/subject/24732489/)  
+
+![](image/stoic.drawio.png)
+斯多葛主义总体的思路就是通过建立高远的目标，利用心理技巧和正确的人生哲学，最终得到安宁的生活。  
+  
+为了抑制享乐适应，需要间歇性地想象坏事发生。（跳出舒适区）  
+把事情分类成完全控制、部分控制、无法控制，内化目标。
+把事情分类成过去、现在和未来，现在和过去无法改变，着眼未来。  
+生活得好像坏事已经发生。（自律）  
 
 # 心理学、养育、教育
 [心理学导论，mitterer07](https://book.douban.com/subject/2125973/)  
@@ -104,10 +112,3 @@
 [曾国藩家书](https://book.douban.com/subject/26826152/)
 
 [大问题, 所罗门2018](https://book.douban.com/subject/30176572/)
-
-
-https://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/syllabus/
-https://ocw.mit.edu/courses/science-technology-and-society/sts-310-history-of-science-fall-2015/syllabus/
-https://books.google.lk/books?id=t4qX37A4PVwC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
-https://en.wikipedia.org/wiki/History_of_science
-https://en.wikipedia.org/wiki/Branches_of_science

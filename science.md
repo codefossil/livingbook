@@ -11,6 +11,13 @@
 
 [大师说科学与哲学](https://book.douban.com/subject/27041829/)
 
+
+https://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/syllabus/
+https://ocw.mit.edu/courses/science-technology-and-society/sts-310-history-of-science-fall-2015/syllabus/
+https://books.google.lk/books?id=t4qX37A4PVwC&printsec=frontcover&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false
+https://en.wikipedia.org/wiki/History_of_science
+https://en.wikipedia.org/wiki/Branches_of_science
+
 # 历史、政治
 
 [中国历史精神，钱穆1951](https://book.douban.com/subject/10435397/)
