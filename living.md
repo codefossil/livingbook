@@ -1,3 +1,6 @@
+![](image/happy.drawio.png)
+
+
 [Healthy Living Guide 2020/2021, Harvard T.H.CHAN](https://www.hsph.harvard.edu/nutritionsource/2021/01/19/healthy-living-guide-2020-2021/)
 
 [程序员延寿指南](https://github.com/geekan/HowToLiveLonger)  
@@ -22,7 +25,12 @@
 为了抑制享乐适应，需要间歇性地想象坏事发生。（跳出舒适区）  
 把事情分类成完全控制、部分控制、无法控制，内化目标。
 把事情分类成过去、现在和未来，现在和过去无法改变，着眼未来。  
-生活得好像坏事已经发生。（自律）  
+生活得好像坏事已经发生。（自律）
+
+[蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/)  
+
+![](image/hama.drawio.png)
+基于TA沟通分析心理学的理论，可以看到心理咨询的倾听、共情、沟通技巧，也可以看到一个标准的心理咨询流程的模板  
 
 # 心理学、养育、教育
 [心理学导论，mitterer07](https://book.douban.com/subject/2125973/)  
