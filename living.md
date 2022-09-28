@@ -30,7 +30,9 @@
 [蛤蟆先生去看心理医生](https://book.douban.com/subject/35143790/)  
 
 ![](image/hama.drawio.png)
-基于TA沟通分析心理学的理论，可以看到心理咨询的倾听、共情、沟通技巧，也可以看到一个标准的心理咨询流程的模板  
+基于TA沟通分析心理学的理论，可以看到心理咨询的倾听、共情、沟通技巧，也可以看到一个标准的心理咨询流程的模板 
+
+https://howsoul.io/article/Vwd1bYEDy
 
 # 心理学、养育、教育
 [心理学导论，mitterer07](https://book.douban.com/subject/2125973/)  
