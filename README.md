@@ -8,10 +8,19 @@
 
 ![](image/plan.png)
 
-* [:rocket:科学与历史](science.md)
-* [:family:健康生活](living.md)  
-* [:speak_no_evil:外语](english.md)
-* [:hammer:元学习](learning.md)
+
+# 生活
+* [:kiss: 活着、幸福与人生观](living.md) 
+* [:weight_lifting_man: 营养、健身与人体](run.md)  
+
+# 成长
+* [:baby: 成长、教育与自我](grow.md) 
+* [:thinking: 思考、决策与心智](think.md)
+* [:speak_no_evil: 外语与表达](english.md) 
+
+# 常识
+* [:rocket: 科学、历史与真理](science.md)  
+* [:man_cook: 经济、政治与社会](society.md)  
 
 如果码农是职业，下面的链接也适合你
-> [工作篇 作为IT工作者的知识框架](https://github.com/codefossil/javabook)
+> [事业 作为IT工作者的知识框架](https://github.com/codefossil/javabook)

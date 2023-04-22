@@ -18,7 +18,7 @@ https://books.google.lk/books?id=t4qX37A4PVwC&printsec=frontcover&source=gbs_ge_
 https://en.wikipedia.org/wiki/History_of_science
 https://en.wikipedia.org/wiki/Branches_of_science
 
-# 历史、政治
+# 历史
 
 [中国历史精神，钱穆1951](https://book.douban.com/subject/10435397/)
 
