@@ -6,7 +6,11 @@
 
 [纳瓦尔宝典](https://book.douban.com/subject/35876121/)  
 
+> 最难的不是做自己想做的事，而是知道自己想要什么。
+
 ![](https://img2022.cnblogs.com/blog/575577/202206/575577-20220615215712410-1476070724.png)
+
+![](image/happy2.drawio.png)
 
 [当下的力量]()
 
