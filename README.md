@@ -22,5 +22,11 @@
 * [:rocket: 科学、历史与真理](science.md)  
 * [:man_cook: 经济、政治与社会](society.md)  
 
+**书籍收集**
+
+世界上最有影响力的人推荐的书籍  
+https://www.mostrecommendedbooks.com/
+
+
 如果码农是职业，下面的链接也适合你
 > [事业 作为IT工作者的知识框架](https://github.com/codefossil/javabook)

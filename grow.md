@@ -1,6 +1,18 @@
 
 # 自我、性格与职业规划
 
+[Turnaround for Child, brizard2016](https://turnaroundusa.org/what-we-do/tools/building-blocks/)  
+
+![](image/building-block.png)
+
+[NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
+
+![](https://www.naceweb.org/uploadedImages/images/2022/chart/Figure-1-Attributes-employers-seek-on-a-candidates-resume-961x600.png)
+
+
+[LOUISIANA HIGH SCHOOL PLANNING GUIDEBOOK](https://www.louisianabelieves.com/docs/default-source/course-choice/high-school-planning-guidebook.pdf?sfvrsn=36)
+
+
 [大学生职业生涯发展与规划]()
 
 
@@ -68,6 +80,16 @@
 搞科研的态度：开辟方向 > 创造方法 > 模仿、成法解决新问题。  
 
 懂的部分，可以快速略过；要紧的，需要重点专研。对自己来说，一本书新的内容加入到自己的体系中，形成飞轮效应。  
+
+[准备]()
+看似讲Submit高中的运作逻辑-何为一所好的学校，另一方面激发我们家长分析自己的问题。
+核心是**人生设计**，通过习得通用的生活技能和学术知识，每个孩子都会过上满足的人生。  
+为了找到自己想要什么，我们是否可以**列出目录**，穷举所有可能的
+
+[Diane Tavenner共享的教养工具箱](https://preparedparents.org/resources/)
+
+
+
 
 [刻意练习, ericsson2016](https://book.douban.com/subject/26895993/)
 
