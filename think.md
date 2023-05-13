@@ -15,6 +15,14 @@ http://mechanism.ucsd.edu/teaching/w07/philpsych/bechtel.cogscihistory.pdf
 
 https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=20033&section=1.1
 
+# 决策力
+
+> 选择过多，决策力下降
+>
+> 比萨和中餐效应
+>
+> 我们自身的智慧通过情感（精神）和直觉（身体的本能反应）发挥作用
+
 # 思维
 
 [不确定世界的理性选择](https://book.douban.com/subject/25763679/)

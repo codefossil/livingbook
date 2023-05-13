@@ -2,7 +2,13 @@
   
 
 # 幸福人生
-[斯坦福大学人生设计课]()
+[斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
+[设计你的工作和人生](https://book.douban.com/subject/35578313/)
+
+![](image/design-life.drawio.png)
+
+有80%的人并不是真的很了解自己的激情所在。如果是为了设计出你热爱的人生，那么你没有必要知道自己对什么充满激情。  
+
 
 [纳瓦尔宝典](https://book.douban.com/subject/35876121/)  
 
@@ -13,8 +19,6 @@
 ![](image/happy2.drawio.png)
 
 [当下的力量]()
-
-[设计你的工作和人生]()
 
 [哈佛幸福课]()  
 人们很容易忽略一些明显的问题。  

@@ -1,4 +1,6 @@
 
+开放与好奇心
+
 # 自我、性格与职业规划
 
 [Turnaround for Child, brizard2016](https://turnaroundusa.org/what-we-do/tools/building-blocks/)  
@@ -12,6 +14,13 @@
 
 [LOUISIANA HIGH SCHOOL PLANNING GUIDEBOOK](https://www.louisianabelieves.com/docs/default-source/course-choice/high-school-planning-guidebook.pdf?sfvrsn=36)
 
+[UCLA职业规划和探索](https://career.ucla.edu/undergrad/career-planning-and-exploration)
+
+[UCLA职业指南](https://career.ucla.edu/file/ba8f1de4-c80d-4ccb-90c3-ad8c91a604e3)
+
+[美国劳工Occupational Outlook Handbook](https://www.bls.gov/ooh/)
+
+[艾瑞咨询-2022年中国大学生学习与发展白皮书-220415](https://pdf.dfcfw.com/pdf/H3_AP202204151559406158_1.pdf?1650033123000.pdf)
 
 [大学生职业生涯发展与规划]()
 
@@ -46,7 +55,7 @@
 
 # 养育、教育
 
-[准备]()
+[准备]()  
 看似讲Submit高中的运作逻辑-何为一所好的学校，另一方面激发我们家长分析自己的问题。
 核心是**人生设计**，通过习得通用的生活技能和学术知识，每个孩子都会过上满足的人生。  
 为了找到自己想要什么，我们是否可以**列出目录**，穷举所有可能的人类活动（所有的职业、其他人分享的成就）  

@@ -18,7 +18,7 @@
 * [:thinking: 思考、决策与心智](think.md)
 * [:speak_no_evil: 外语与表达](english.md) 
 
-# 常识
+# 连接
 * [:rocket: 科学、历史与真理](science.md)  
 * [:man_cook: 经济、政治与社会](society.md)  
 
