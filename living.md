@@ -1,17 +1,13 @@
 ![](image/happy.drawio.png)
+
+https://ideas.ted.com/tag/how-to-be-a-better-human/
+
+http://lifedesignlab.stanford.edu/
   
 
 # 幸福人生
 
 [The Global Rise of Unhappiness](https://news.gallup.com/opinion/gallup/401216/global-rise-unhappiness.aspx)
-
-[斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
-[设计你的工作和人生](https://book.douban.com/subject/35578313/)
-
-![](image/design-life.drawio.png)
-
-有80%的人并不是真的很了解自己的激情所在。如果是为了设计出你热爱的人生，那么你没有必要知道自己对什么充满激情。  
-
 
 [纳瓦尔宝典](https://book.douban.com/subject/35876121/)  
 
@@ -22,6 +18,8 @@
 ![](image/happy2.drawio.png)
 
 [当下的力量]()
+
+
 
 [哈佛幸福课]()  
 人们很容易忽略一些明显的问题。  
@@ -52,6 +50,17 @@ https://www.mayoclinic.org/
 员工幸福感指数，在疫情后不再增长，2017年这个指数是15%。  
 
 [Global Workforce Hopes and Fears Survey 2022](https://www.pwc.com/gx/en/hopes-and-fears/downloads/global-workforce-hopes-and-fears-survey-2022-v2.pdf)
+
+[斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
+[设计你的工作和人生](https://book.douban.com/subject/35578313/)
+
+![](image/design-life.drawio.png)
+
+大多数人大部分时间都在工作，因此本书大部分时候都在分析职场。  
+
+有80%的人并不是真的很了解自己的激情所在。如果是为了设计出你热爱的人生，那么你没有必要知道自己对什么充满激情。  
+
+这本书到目前都出了3版了，解决方案还是没有稳定下来，一方面是疫情给全球带来了很大的影响，另一方面也说明生活需要处理的情况太多了。  
 
 [NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
 
