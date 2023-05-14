@@ -2,6 +2,9 @@
   
 
 # 幸福人生
+
+[The Global Rise of Unhappiness](https://news.gallup.com/opinion/gallup/401216/global-rise-unhappiness.aspx)
+
 [斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
 [设计你的工作和人生](https://book.douban.com/subject/35578313/)
 
@@ -37,6 +40,43 @@
 生活得好像坏事已经发生。（自律）
 
 https://howsoul.io/article/Vwd1bYEDy
+
+# 大学、职业规划与工作
+
+https://www.mayoclinic.org/
+
+[State of The Global Workplace 2022 Report](https://bluesyemre.com/2022/07/05/state-of-the-global-workplace-2022-report/)
+
+![](https://assets.weforum.org/editor/qyN-aPhfWQfeEdrMGWvR9_x2LTuBMLIgyc8ifrNT_hI.png)
+
+员工幸福感指数，在疫情后不再增长，2017年这个指数是15%。  
+
+[Global Workforce Hopes and Fears Survey 2022](https://www.pwc.com/gx/en/hopes-and-fears/downloads/global-workforce-hopes-and-fears-survey-2022-v2.pdf)
+
+[NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
+
+![](https://www.naceweb.org/uploadedImages/images/2022/chart/Figure-1-Attributes-employers-seek-on-a-candidates-resume-961x600.png)
+
+[UCLA职业规划和探索](https://career.ucla.edu/undergrad/career-planning-and-exploration)
+
+[UCLA职业指南](https://career.ucla.edu/file/ba8f1de4-c80d-4ccb-90c3-ad8c91a604e3)
+
+[美国劳工Occupational Outlook Handbook](https://www.bls.gov/ooh/)
+
+[艾瑞咨询-2022年中国大学生学习与发展白皮书-220415](https://pdf.dfcfw.com/pdf/H3_AP202204151559406158_1.pdf?1650033123000.pdf)
+
+[大学生职业生涯发展与规划]()
+
+[职业的选择]()
+
+[毕业不失业职业生涯步步高]()
+
+职业倦怠
+
+生产资料：销售、报告、计划和预算、项目、产品与服务  
+流程：工作流程、程序、晋升和职业发展的路径、沟通  
+人力：平易近人、直率真诚真实、可靠、机密、同理心、亲和力、诚信度、情商和自制力  
+
 
 # 财富
 [小狗钱钱, 舍费尔09](https://book.douban.com/subject/3576486/)

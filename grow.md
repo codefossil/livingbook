@@ -1,5 +1,6 @@
-
 开放与好奇心
+
+作为人类的核心是什么，同理心和创造力，社交能力、情感交际能力
 
 # 自我、性格与职业规划
 
@@ -7,23 +8,8 @@
 
 ![](image/building-block.png)
 
-[NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
-
-![](https://www.naceweb.org/uploadedImages/images/2022/chart/Figure-1-Attributes-employers-seek-on-a-candidates-resume-961x600.png)
-
 
 [LOUISIANA HIGH SCHOOL PLANNING GUIDEBOOK](https://www.louisianabelieves.com/docs/default-source/course-choice/high-school-planning-guidebook.pdf?sfvrsn=36)
-
-[UCLA职业规划和探索](https://career.ucla.edu/undergrad/career-planning-and-exploration)
-
-[UCLA职业指南](https://career.ucla.edu/file/ba8f1de4-c80d-4ccb-90c3-ad8c91a604e3)
-
-[美国劳工Occupational Outlook Handbook](https://www.bls.gov/ooh/)
-
-[艾瑞咨询-2022年中国大学生学习与发展白皮书-220415](https://pdf.dfcfw.com/pdf/H3_AP202204151559406158_1.pdf?1650033123000.pdf)
-
-[大学生职业生涯发展与规划]()
-
 
 [盖洛普优势识别器 2.0]()
 
@@ -37,9 +23,6 @@
 
 [专注力就是你的超能力]()
 
-[职业的选择]()
-
-[毕业不失业职业生涯步步高]()
 
 [发现你的天赋]()
 
