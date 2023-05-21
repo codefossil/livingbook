@@ -11,6 +11,12 @@
 
 [大师说科学与哲学](https://book.douban.com/subject/27041829/)
 
+[具体数学](https://book.douban.com/subject/21323941/)
+
+[哥德尔、艾舍尔、巴赫](https://book.douban.com/subject/1291204/)
+
+[The Principia: Mathematical Principles of Natural Philosophy, isaac1687](https://book.douban.com/subject/1507315/)
+
 
 https://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/syllabus/
 https://ocw.mit.edu/courses/science-technology-and-society/sts-310-history-of-science-fall-2015/syllabus/
