@@ -12,6 +12,8 @@
 
 [美国国家睡眠基金会](https://www.sleepfoundation.org/)
 
+[Sleep resources guidebook](http://www.promoinfotools.com/Communications/ecard/Svcs/BetterSleep/SleepGuidebook_RFL.pdf)
+
 [Nathaniel Kleitman, PhD, Kleitman99](https://www.uchicagomedicine.org/forefront/news/nathaniel-kleitman-phd-1895-1999)
 
 Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节律大约是一天。  
