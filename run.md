@@ -8,6 +8,34 @@
 [程序员防猝死指南](https://www.cnblogs.com/anding/p/16482341.html)  
 主要是围绕健身周围的一系列知识和实用的活动指南。  
 
+# 睡眠
+
+[美国国家睡眠基金会](https://www.sleepfoundation.org/)
+
+[Nathaniel Kleitman, PhD, Kleitman99](https://www.uchicagomedicine.org/forefront/news/nathaniel-kleitman-phd-1895-1999)
+
+Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节律大约是一天。  
+
+[Physiology of Sleep, carley2016](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4755451/)
+
+[我们为什么要睡觉？](https://book.douban.com/subject/35332778/)
+
+![](image/sleep.drawio.png)
+
+超过65%的美国成年人在一周中没有一天晚上得到了7~9小时的建议睡眠时间。  
+人类（以及所有其他物种）永远不能把我们之前失去的睡眠“睡回来”。 
+
+一生的睡觉时间
+
+| 阶段  | 睡觉时间  |时长|备注|
+|---|---|---|---|
+|出生前   |   |24, 6REM+6NREM+12|肌肉抑制系统不健全|
+|幼儿   |   |11小时|逐渐双相睡眠，NREM:REM=80:20|
+|9岁   |8pm入睡，9pm睡着   |10小时, 9-12||
+|16岁   |11pm入睡  |9小时, 8-10 |节律器比父母晚|
+|成年人   |10pm  |8小时, 7+ |
+|中老年人   |8pm |8小时 |慢波质量和数量降低，记忆衰退，频繁清醒，节律器提前，但腺苷压力不足
+
 # 基础代谢
 ![](image/base.png)
 
