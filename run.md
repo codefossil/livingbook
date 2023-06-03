@@ -12,6 +12,8 @@
 
 [美国国家睡眠基金会](https://www.sleepfoundation.org/)
 
+[YOUR GUIDE TO Healthy Sleep, nih](https://www.nhlbi.nih.gov/files/docs/public/sleep/healthy_sleep.pdf)
+
 [Sleep resources guidebook](http://www.promoinfotools.com/Communications/ecard/Svcs/BetterSleep/SleepGuidebook_RFL.pdf)
 
 [Nathaniel Kleitman, PhD, Kleitman99](https://www.uchicagomedicine.org/forefront/news/nathaniel-kleitman-phd-1895-1999)
