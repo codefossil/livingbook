@@ -4,6 +4,18 @@
 
 人性、情绪、动机、行为
 
+https://further.net/
+
+https://blog.samaltman.com/productivity
+
+https://www.cyzone.cn/article/621131.html
+
+https://jamesclear.com/why-facts-dont-change-minds
+
+https://jamesclear.com/3-2-1/may-25-2023
+
+https://developer.aliyun.com/article/1179144
+
 # 自我、性格与职业规划
 
 [Turnaround for Child, brizard2016](https://turnaroundusa.org/what-we-do/tools/building-blocks/)  
