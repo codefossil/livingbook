@@ -15,6 +15,7 @@ http://mechanism.ucsd.edu/teaching/w07/philpsych/bechtel.cogscihistory.pdf
 
 https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=20033&section=1.1
 
+
 # 决策力
 
 > 选择过多，决策力下降

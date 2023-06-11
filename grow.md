@@ -16,6 +16,10 @@ https://jamesclear.com/3-2-1/may-25-2023
 
 https://developer.aliyun.com/article/1179144
 
+https://therapistuncensored.com/
+
+https://web.mit.edu/
+
 # 自我、性格与职业规划
 
 [Turnaround for Child, brizard2016](https://turnaroundusa.org/what-we-do/tools/building-blocks/)  
@@ -106,6 +110,12 @@ https://developer.aliyun.com/article/1179144
 满意=喜欢-想要  
 
 ![](image/habit.drawio.png)
+
+https://www.scientificamerican.com/article/how-the-brain-makes-and-breaks-habits/
+
+http://blog.idonethis.com/the-biology-of-productivity/
+
+https://www.healthline.com/health/the-science-of-habit#1
 
 
 [刻意练习, ericsson2016](https://book.douban.com/subject/26895993/)
