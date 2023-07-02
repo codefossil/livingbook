@@ -1,3 +1,6 @@
+[Nobel02, Kahneman](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/)
+
+
 ![](https://res.ailemon.net/blog/2019/20191202-5.png?x-oss-process=style/ailemon-blog-watermark-pic)
 
 [mind, thagard05](https://book.douban.com/subject/1869660/)
@@ -16,6 +19,10 @@ http://mechanism.ucsd.edu/teaching/w07/philpsych/bechtel.cogscihistory.pdf
 https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=20033&section=1.1
 
 
+意识？潜意识？理性？感性？
+
+
+
 # 决策力
 
 > 选择过多，决策力下降
@@ -25,6 +32,11 @@ https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=20033&section=1.1
 > 我们自身的智慧通过情感（精神）和直觉（身体的本能反应）发挥作用
 
 # 思维
+
+[超越智商, Stanovich2010](https://book.douban.com/subject/26605978/)  
+[理商, Stanovich2016](https://book.douban.com/subject/35083569/)  
+
+将理性思维作为一种独立的心理结构来进行测量。  
 
 [不确定世界的理性选择](https://book.douban.com/subject/25763679/)
 
