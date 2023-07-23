@@ -1,10 +1,7 @@
 开放与好奇心
 
-作为人类的核心是什么，同理心和创造力，社交能力、情感交际能力
-
 人性、情绪、动机、行为
 
-教化与教育
 
 https://further.net/
 
@@ -43,6 +40,11 @@ https://web.mit.edu/
 
 [专注力就是你的超能力]()
 
+[安静 内向性格的竞争力](https://book.douban.com/subject/11601993/)
+
+[自尊](https://book.douban.com/subject/30408726/)
+
+[活出最乐观的自己](https://book.douban.com/subject/4934590/)
 
 [发现你的天赋]()
 
@@ -57,6 +59,25 @@ https://web.mit.edu/
 # 玩耍与游戏力
 
 # 养育、教育、亲子关系
+
+教化与教育
+
+> 教育前沿跟踪、教育发展主要指标及其趋势比较研究
+> 全球化背景下中国特色基础教育发展
+
+[推动在线教育转型升级](https://iwaes.gmw.cn/show/detail.jsp?newsID=%2BPzoCcfQMLs%3D)
+
+[中国教育三十人论坛](https://www.master-insight.com/author/zhongguojiaoyusanshirenluntan/)
+
+[面向未来的教育：培养21世纪核心素养的全球经验](https://www.wise-qatar.org/app/uploads/2019/04/wise_research21st_century_skills_chinese.pdf)
+
+[教育部印发《普通高中学校办学质量评价指南》](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202201/t20220110_593455.html)
+
+[中小学教育质量综合评价指标框架（试行）](https://wenku.baidu.com/view/fd4826785bfafab069dc5022aaea998fcc22403d.html?_wkts_=1690086659977&bdQuery=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%E6%A1%86%E6%9E%B6)
+
+[教育部等六部门关于印发《义务教育质量评价指南》的通知](http://www.moe.gov.cn/srcsite/A06/s3321/202103/t20210317_520238.html)
+
+[北京市十一学校行动纲要](https://www.sohu.com/a/658734706_100934)
 
 [孩子：挑战](https://book.douban.com/subject/35200665/)  
 
@@ -90,6 +111,10 @@ https://web.mit.edu/
 [The Challenge](https://book.douban.com/subject/26304087/)
 
 # 学习科学
+
+> 学校统一教，孩子个性化的学
+
+
 
 [Knowns & unknowns, 96](http://matt.colorado.edu/teaching/highcog/fall8/nbbbbchlpsu96.pdf)  
 [Working memory capacity, 2003](http://matt.colorado.edu/teaching/highcog/fall8/cke3.pdf)  
@@ -141,6 +166,54 @@ http://matt.colorado.edu/teaching/highcog/fall8/
 https://en.wikipedia.org/wiki/Learning_theory_(education)  
 
 
+
+# 情绪、情商、心理健康
+
+作为人类的核心是什么，同理心和创造力，社交能力、情感交际能力
+
+[教育的“情感转向”与“全人”培养](https://iwaes.gmw.cn/show/detail.jsp?newsID=yv1yDZLbdhI%3D)
+
+
+[中国青少年社会与情感能力发展水平报告](https://xbjk.ecnu.edu.cn/EN/article/downloadArticleFile.do?attachType=PDF&id=9491)
+
+[讲座实录 | 黄忠敬：国际视野下的中国学生社会与情感能力测评与实践（上）](https://untec.shnu.edu.cn/98/28/c27591a759848/page.htm)
+
+
+[SEL](https://casel.org/)
+![](http://learningselally.com/wp-content/uploads/2017/01/CASEL-Wheel.png)
+
+
+
+
+[拥抱你的敏感情绪：疗愈情绪，接纳自我](https://book.douban.com/subject/35219805/)
+
+
+[成功心理学](https://book.douban.com/subject/26807400/)
+
+[不被父母控制的人生](https://book.douban.com/subject/35279820/)
+
+[自信的陷阱](https://book.douban.com/subject/34846270/)
+
+
+[伯恩斯新情绪疗法Ⅱ](https://book.douban.com/subject/26972590/)
+
+[清醒地活](https://book.douban.com/subject/35581777/)
+
+[被讨厌的勇气](https://book.douban.com/subject/26369699/)
+
+
+[情商系列，戈尔曼](https://book.douban.com/subject/30181152/)
+
+戈尔曼的这个情商共有6本，涵盖社交、工作、领导力、生态，以及如何提高。  
+
+![](https://pic1.zhimg.com/80/v2-f69c935b373725fca597314517fba3e4_1440w.webp)
+
+[情商2.0：如何测量和提升自己的情商](https://book.douban.com/subject/34667959/)
+
+
+https://www.commonsense.org/education/articles/teachers-essential-guide-to-social-and-emotional-learning-in-digital-life?campaignid=14648366524&adgroupid=128855787282&adid=545770796344&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B_W9mf-uF4rMJfrMOsh4BthMIePizbjYUbe432nKONwXwmH_JPQWYgaAms9EALw_wcB
+
+
 # 心理学
 [心理学导论，mitterer07](https://book.douban.com/subject/2125973/)  
 
@@ -153,5 +226,3 @@ https://en.wikipedia.org/wiki/Learning_theory_(education)
 
 ![](image/hama.drawio.png)
 基于TA沟通分析心理学的理论，可以看到心理咨询的倾听、共情、沟通技巧，也可以看到一个标准的心理咨询流程的模板 
-
-# 情绪
