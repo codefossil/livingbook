@@ -58,26 +58,19 @@ https://web.mit.edu/
 
 # 玩耍与游戏力
 
-# 养育、教育、亲子关系
 
-教化与教育
 
-> 教育前沿跟踪、教育发展主要指标及其趋势比较研究
-> 全球化背景下中国特色基础教育发展
+# 教养、亲子关系
 
-[推动在线教育转型升级](https://iwaes.gmw.cn/show/detail.jsp?newsID=%2BPzoCcfQMLs%3D)
+[全脑教养法，siegel2012](https://book.douban.com/subject/22224887/)
 
-[中国教育三十人论坛](https://www.master-insight.com/author/zhongguojiaoyusanshirenluntan/)
+感受是暂时的，平均来说，一种情绪从产生到消逝的时间不会超过90秒。  
+我们的身体感觉塑造了我们的情绪，我们的情绪塑造了我们的思想和头脑中的图像；反之亦然。  
+即使是那些天生对联结和同情不敏感的孩子，也能够在人际关系中感受联结的意义，并且学会承担责任。  
+不断有研究表明，如果父母能够持续、稳定地了解和敏锐地回应孩子的情绪和需要，那么无论是在社交、情绪、身体还是学术上，孩子的生活都将更加繁盛。  
+在帮助孩子在与人交往的过程中变得更加接纳之时，我们要时刻谨记保持他们的独立个性的重要性。  
 
-[面向未来的教育：培养21世纪核心素养的全球经验](https://www.wise-qatar.org/app/uploads/2019/04/wise_research21st_century_skills_chinese.pdf)
-
-[教育部印发《普通高中学校办学质量评价指南》](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202201/t20220110_593455.html)
-
-[中小学教育质量综合评价指标框架（试行）](https://wenku.baidu.com/view/fd4826785bfafab069dc5022aaea998fcc22403d.html?_wkts_=1690086659977&bdQuery=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%E6%A1%86%E6%9E%B6)
-
-[教育部等六部门关于印发《义务教育质量评价指南》的通知](http://www.moe.gov.cn/srcsite/A06/s3321/202103/t20210317_520238.html)
-
-[北京市十一学校行动纲要](https://www.sohu.com/a/658734706_100934)
+![](image/children-whole-brain.drawio.png)
 
 [孩子：挑战](https://book.douban.com/subject/35200665/)  
 
@@ -212,6 +205,28 @@ https://en.wikipedia.org/wiki/Learning_theory_(education)
 
 
 https://www.commonsense.org/education/articles/teachers-essential-guide-to-social-and-emotional-learning-in-digital-life?campaignid=14648366524&adgroupid=128855787282&adid=545770796344&gclid=Cj0KCQjw_O2lBhCFARIsAB0E8B_W9mf-uF4rMJfrMOsh4BthMIePizbjYUbe432nKONwXwmH_JPQWYgaAms9EALw_wcB
+
+
+# 教育
+
+教化与教育
+
+> 教育前沿跟踪、教育发展主要指标及其趋势比较研究
+> 全球化背景下中国特色基础教育发展
+
+[推动在线教育转型升级](https://iwaes.gmw.cn/show/detail.jsp?newsID=%2BPzoCcfQMLs%3D)
+
+[中国教育三十人论坛](https://www.master-insight.com/author/zhongguojiaoyusanshirenluntan/)
+
+[面向未来的教育：培养21世纪核心素养的全球经验](https://www.wise-qatar.org/app/uploads/2019/04/wise_research21st_century_skills_chinese.pdf)
+
+[教育部印发《普通高中学校办学质量评价指南》](http://www.moe.gov.cn/jyb_xwfb/gzdt_gzdt/s5987/202201/t20220110_593455.html)
+
+[中小学教育质量综合评价指标框架（试行）](https://wenku.baidu.com/view/fd4826785bfafab069dc5022aaea998fcc22403d.html?_wkts_=1690086659977&bdQuery=%E4%B8%AD%E5%B0%8F%E5%AD%A6%E6%95%99%E8%82%B2%E8%B4%A8%E9%87%8F%E7%BB%BC%E5%90%88%E8%AF%84%E4%BB%B7%E6%8C%87%E6%A0%87%E6%A1%86%E6%9E%B6)
+
+[教育部等六部门关于印发《义务教育质量评价指南》的通知](http://www.moe.gov.cn/srcsite/A06/s3321/202103/t20210317_520238.html)
+
+[北京市十一学校行动纲要](https://www.sohu.com/a/658734706_100934)
 
 
 # 心理学
