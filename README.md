@@ -12,10 +12,11 @@
 # 生活
 * [:kiss: 活着、幸福与人生观](living.md) 
 * [:weight_lifting_man: 营养、健身与人体](run.md)  
+* [:moneybag: 财富、经济与社会](wealth.md)
 
 # 成长
-* [:baby: 成长、教育与自我](grow.md) 
-* [:thinking: 思考、决策与心智](think.md)
+* [:baby: 提升、教育与自我](grow.md) 
+* [:thinking: 思考训练、决策与心智](think.md)
 * [:speak_no_evil: 外语与表达](english.md) 
 
 # 连接
