@@ -87,18 +87,6 @@ https://www.mayoclinic.org/
 人力：平易近人、直率真诚真实、可靠、机密、同理心、亲和力、诚信度、情商和自制力  
 
 
-# 财富
-[小狗钱钱, 舍费尔09](https://book.douban.com/subject/3576486/)
-
-[财富自由之路](https://book.douban.com/subject/27094706/)
-
-[巴菲特致股东的信](https://book.douban.com/subject/30164963/)
-
-[穷查理宝典](https://book.douban.com/subject/4208757/)
-
-[投资者的未来](https://book.douban.com/subject/30313572/)
-
-[穷爸爸、富爸爸](https://book.douban.com/subject/1033778/)
 
 # 哲学
 
