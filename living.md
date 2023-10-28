@@ -41,15 +41,6 @@ https://howsoul.io/article/Vwd1bYEDy
 
 # 大学、职业规划与工作
 
-https://www.mayoclinic.org/
-
-[State of The Global Workplace 2022 Report](https://bluesyemre.com/2022/07/05/state-of-the-global-workplace-2022-report/)
-
-![](https://assets.weforum.org/editor/qyN-aPhfWQfeEdrMGWvR9_x2LTuBMLIgyc8ifrNT_hI.png)
-
-员工幸福感指数，在疫情后不再增长，2017年这个指数是15%。  
-
-[Global Workforce Hopes and Fears Survey 2022](https://www.pwc.com/gx/en/hopes-and-fears/downloads/global-workforce-hopes-and-fears-survey-2022-v2.pdf)
 
 [斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
 [设计你的工作和人生](https://book.douban.com/subject/35578313/)
@@ -61,6 +52,20 @@ https://www.mayoclinic.org/
 有80%的人并不是真的很了解自己的激情所在。如果是为了设计出你热爱的人生，那么你没有必要知道自己对什么充满激情。  
 
 这本书到目前都出了3版了，解决方案还是没有稳定下来，一方面是疫情给全球带来了很大的影响，另一方面也说明生活需要处理的情况太多了。  
+
+[工作：巨变时代的现状、挑战与未来](https://book.douban.com/subject/35686239/)
+
+
+
+https://www.mayoclinic.org/
+
+[State of The Global Workplace 2022 Report](https://bluesyemre.com/2022/07/05/state-of-the-global-workplace-2022-report/)
+
+![](https://assets.weforum.org/editor/qyN-aPhfWQfeEdrMGWvR9_x2LTuBMLIgyc8ifrNT_hI.png)
+
+员工幸福感指数，在疫情后不再增长，2017年这个指数是15%。  
+
+[Global Workforce Hopes and Fears Survey 2022](https://www.pwc.com/gx/en/hopes-and-fears/downloads/global-workforce-hopes-and-fears-survey-2022-v2.pdf)
 
 [NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
 
