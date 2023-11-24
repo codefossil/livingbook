@@ -48,6 +48,10 @@ https://web.mit.edu/
 
 ![](image/havard-grant.drawio.png)
 
+[去，过你想要的人生](https://book.douban.com/subject/26337890/)
+
+书里列出的书单是特色。  
+
 
 # 自我、性格与职业规划
 

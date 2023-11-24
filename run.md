@@ -94,6 +94,8 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 
 ![](image/fat.drawio.png)
 
+[更壮 更瘦 更强](https://book.douban.com/subject/27107200/)
+
 [健身营养全书](https://book.douban.com/subject/30157798/)  
 
 
