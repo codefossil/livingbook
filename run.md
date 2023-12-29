@@ -1,24 +1,19 @@
 # 基本问题
 
 [健康中国2030”规划纲要](https://www.gov.cn/zhengce/2016-10/25/content_5124174.htm)  
-
 推进健康中国建设，是全面建成小康社会、基本实现社会主义现代化的重要基础，是全面提升中华民族健康素质、实现人民健康与经济社会协调发展的国家战略，是积极参与全球健康治理、履行2030年可持续发展议程国际承诺的重大举措
 
 [健康中国行动（2019—2030年）](http://www.nhc.gov.cn/guihuaxxs/s3585u/201907/e9275fb95d5b4295be8308415d4cd1b2.shtml)  
-
 规定了角色、重大指标、活动
 
 [树立健康新理念 建立健康生活方式](https://www.ggj.gov.cn/zgjghq/2012/201206/201206/t20120612_19265.htm)  
-
 针对现代健康定义做出解释
 
-[国民体质测定标准（2023年修订）](https://www.sport.gov.cn/n315/n20001395/c25880704/part/25880716.pdf)
-
+[国民体质测定标准（2023年修订）](https://www.sport.gov.cn/n315/n20001395/c25880704/part/25880716.pdf)  
 新标准针对当前我国幼儿、成年人和老年人需要提升平衡能力、心肺功能、肌肉力量等现实需求。  
 体质水平=身体形态15%+机能25%+素质60%  
 
-[国民体质监测公报](https://www.gov.cn/guoqing/2023-03/12/content_5745851.htm)
-
+[国民体质监测公报](https://www.gov.cn/guoqing/2023-03/12/content_5745851.htm)  
 中国政府每5年发布一次国家国民体质监测公报，系统分析了国民体质的基本情况、特征和变化规律。  
 
 [2022 年中国居民健康素养监测情况](https://www.gov.cn/lianbo/bumen/202308/P020230822019124684406.pdf)
@@ -85,8 +80,7 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 
 [中国食物成分表](http://www.hyyhealth.com/food)
 
-[食品营养标签管理规范](https://www.gov.cn/gzdt/2008-01/11/content_856260.htm)
-
+[食品营养标签管理规范](https://www.gov.cn/gzdt/2008-01/11/content_856260.htm)  
 它显示了食品的营养特性和相关营养学信息，是消费者了解食品营养组分和特征的主要途径。
 
 [中国居民膳食指南](http://dg.cnsoc.org/article/04/x8zaxCk7QQ2wXw9UnNXJ_A.html)
@@ -108,14 +102,12 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 - 青少年蛋白质大概是女性的0.8，钙比成人需要更多
 
 
-[中国居民膳食指南科学研究报告2021](https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/P020210311486742870527.pdf)
-
+[中国居民膳食指南科学研究报告2021](https://www.chinanutri.cn/yyjkzxpt/yyjkkpzx/yytsg/zgjm/202103/P020210311486742870527.pdf)  
 对膳食指南进行证据、观点分析和总结。  
 
 [2023中国与全球食物政策报告](http://agfep.cau.edu.cn/art/2023/4/22/art_39031_962628.html)
 
-[美国国家农业库-人类营养和食物安全](https://www.nal.usda.gov/human-nutrition-and-food-safety)
-
+[美国国家农业库-人类营养和食物安全](https://www.nal.usda.gov/human-nutrition-and-food-safety)  
 上面有每种食物的成分库、营养库  
 膳食指南  
 各种跟食品相关的论文  
@@ -129,9 +121,9 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 - 限制糖、饱和脂肪、盐的摄入。  
 
 [膳食营养索参考摄入量,dri](https://www.nal.usda.gov/human-nutrition-and-food-safety/dri-calculator/results)
+根据年龄、身高、体重、活动量，估算出每天的基本能量消耗，根据每个营养素功能比例，给出估计的摄入量和食谱。  
 
-[MyPlate](https://www.myplate.gov/)
-
+[MyPlate](https://www.myplate.gov/)  
 根据身高、体重、活动量，计算每天各种营养素的摄入量
 
 https://dtc.ucsf.edu/
@@ -198,8 +190,7 @@ input=872大卡+1个苹果（80卡）+牛奶130=1050大卡
 
 output=250大卡步行+100健身+1807基础=2157大卡
 
-[肥胖代码](https://book.douban.com/subject/34906442/)
-
+[肥胖代码](https://book.douban.com/subject/34906442/)  
 人体具有基本的**生物内稳态**特征，如果某一生理过程向一个方向变化，则身体会做出反应，将向另一个方向改变以保持原来的状态。换句话说，身体会产生耐受力。身体不在它的舒适区时，为了适应环境会出现**抵抗**。  
 
 1焦耳的橄榄油和1焦耳的糖会发生同样的代谢反应吗？答案显然是否定的，可以发现这两种食物有很多不同。糖会升高血糖水平，并促使胰腺分泌胰岛素。  
@@ -235,8 +226,7 @@ https://www.jirou.com/tool/reliang.php
 
 [体育强国建设纲要](https://www.gov.cn/xinwen/2019-09/02/content_5426540.htm)
 
-[全民健身指南](https://www.sport.gov.cn/n315/n20067006/c20324479/content.html)
-
+[全民健身指南](https://www.sport.gov.cn/n315/n20067006/c20324479/content.html)  
 综合运动能力评价 = 心肺功能40+BMI20+肌肉力量20+柔韧性10+平衡能力5+反应能力5
 
 中等运动强度主要包括健身走、慢跑（6～8千米/小时）、骑自行车(12～16千米/小时)、登山、爬楼梯、游泳等
@@ -246,8 +236,7 @@ https://www.jirou.com/tool/reliang.php
 [美国体育活动指南](https://health.gov/sites/default/files/2019-09/Physical_Activity_Guidelines_2nd_edition.pdf)
 
 
-[Lean in 15](https://www.amazon.com/Lean-15-15-Minute-Workouts-Healthy/dp/0062493663)
-
+[Lean in 15](https://www.amazon.com/Lean-15-15-Minute-Workouts-Healthy/dp/0062493663)  
 作者鼓励多吃，合适的燃烧脂肪，构建更多精瘦的肌肉，从而基础代谢更有效，然后你能够愉快的吃更多的食物了。  
 严格的饮食和训练计划，与美食、在家烹饪、外出享受的平衡  
 **愉悦的、可持续的、批量现成的、快速的、健康营养的、在家烹饪**  
@@ -284,12 +273,10 @@ https://www.jirou.com/tool/reliang.php
 
 # 健康教育
 
-[国家体育锻炼标准工作指导手册](https://www.sport.gov.cn/n322/n382/c958111/part/606432.pdf)
-
+[国家体育锻炼标准工作指导手册](https://www.sport.gov.cn/n322/n382/c958111/part/606432.pdf)  
 《国家体育锻炼标准》适用于 6~69 周岁的健康公民，按年龄分为儿童、少年、青年、壮年和老年五个组别，每个组别分男、女两类人群。测验项目类别涵盖人体的速度、耐力、力量、灵敏、柔韧五类身体素质。  
 
-[国家学生体质健康标准（2014年修订）](http://www.moe.gov.cn/s78/A17/twys_left/moe_938/moe_792/s3273/201407/t20140708_171692.html)
-
+[国家学生体质健康标准（2014年修订）](http://www.moe.gov.cn/s78/A17/twys_left/moe_938/moe_792/s3273/201407/t20140708_171692.html)  
 是国家学校教育工作的基础性指导文件和教育质量基本标准，是评价学生综合素质、评估学校工作和衡量各地教育发展的重要依据。  
 
 [不同国家学生体质监测体系的发展](http://www.cjsh.org.cn/cn/article/doi/10.16835/j.cnki.1000-9817.2022.01.034?viewType=HTML)
