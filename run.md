@@ -224,6 +224,10 @@ https://www.jirou.com/tool/reliang.php
 > 体育健身活动可以提高人体的心肺功能、肌肉力量、柔韧、平衡和反应能力，改善身体成分，从而达到增强体质、提高健康水平的效果。
 >
 
+https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB%E8%82%8C%E8%82%89%E8%A7%A3%E5%89%96/
+
+![](https://hacker1356.files.wordpress.com/2020/12/image-53.png)
+
 [体育强国建设纲要](https://www.gov.cn/xinwen/2019-09/02/content_5426540.htm)
 
 [全民健身指南](https://www.sport.gov.cn/n315/n20067006/c20324479/content.html)  

@@ -9,7 +9,7 @@
 ![](image/plan.png)
 
 
-# 生活
+# 个人生活
 * [:kiss: 活着、幸福与人生观](living.md) 
 * [:weight_lifting_man: 营养、健身与人体](run.md)  
 * [:moneybag: 财富、经济与社会](wealth.md)
