@@ -307,3 +307,6 @@ NHANES发现孩子和成年美国人有7.7个小时是久坐的。
 [中小学生每天锻炼两小时能实现吗？其实运动时间可以化整为零](https://news.bjd.com.cn/tech/2021/02/03/47423t133.html)
 
 [学校心理健康教育三十年](https://deyu.usst.edu.cn/_upload/article/files/0b/b6/29111aaf4580bbae5e5a64adcb09/bdb42a88-1b9d-4dd0-a830-e093c9f5a221.pdf)
+
+[体育学科核心素养研究的国际经验与启示]()  
+![](https://img.fx361.cc/images/2019/02/15/qkimagestyxktyxk201901tyxk20190115-2-l.jpg)

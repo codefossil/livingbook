@@ -1,12 +1,10 @@
 # TO BE A BETTER MAN
-![](image/man.drawio.png)
+![](image/man101.png)
 
 :alien:作为人类生活在这个地球上，我们需要很多指导。 
 这是一份作为普通人类的知识框架，上帝会不会也用这个构建出不同的人。
 
 作为人类，我们的认识领域还会有怎样的扩展边界。
-
-![](image/plan.png)
 
 
 # 个人生活
