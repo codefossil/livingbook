@@ -225,8 +225,8 @@ output=250大卡步行+100健身+1807基础=2157大卡
 
 # 健康体魄
 > 吃的健康、有规律的锻炼、维持体重、限制酒精、不抽烟
+> 
 > 体育健身活动可以提高人体的心肺功能、肌肉力量、柔韧、平衡和反应能力，改善身体成分，从而达到增强体质、提高健康水平的效果。
->
 
 
 [体育强国建设纲要](https://www.gov.cn/xinwen/2019-09/02/content_5426540.htm)
@@ -276,7 +276,6 @@ NHANES发现孩子和成年美国人有7.7个小时是久坐的。
 ![](https://pic3.zhimg.com/80/v2-5d2cbccf6b0702de48d0f0ac0764ff2e_1440w.jpg)
 
 [量化健身：原理解析, 陈柏龄2019](https://book.douban.com/subject/34912103/)  
-
 体重=骨骼+水分+肌肉+脂肪  
 ![](https://cdn.nlark.com/yuque/0/2022/png/393451/1649255717021-0f17d0a5-40c2-407f-ae3f-d97cf4059aaf.png)
 人体供能顺序：糖类->脂肪->蛋白质  
@@ -347,13 +346,15 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 
 ## 举重、哑铃、器械、自由锻炼
 
+[如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
+
 ### 上半身
 |   |   |    |
 |---|---|---|
-| 俯卧撑  | ![](https://p7.itc.cn/q_70/images03/20220401/e10f7fdcc8514b6ea1e665019a1ce823.jpeg)|
+| 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
 | 哑铃胸推| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrpUWwUSDRy6cPhFCEiOh5fL7-ltQHp1Usw&usqp=CAU)|
 | 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
-| 肱三头肌支撑  | ![](https://www.anytimefitness.com/wp-content/uploads/2020/07/fullsizeoutput_33.webp)|
+| 肱三头肌支撑  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|
 
 #### 胸部
 ![](https://www.jianshen8.com/uploads/allimg/130719/2_130719142907_3.jpg)
@@ -362,7 +363,7 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 |---|---|---|
 | 上斜哑铃卧推| ![](https://k.sinaimg.cn/n/translate/20160722/4CnF-fxuhukv7308123.jpg/w700d1q75cms.jpg)|上胸
 | 卧推  | ![](https://picx.zhimg.com/v2-b02de09079d0ebf05faa3863cf2b9803_720w.jpg?source=172ae18b)|中胸
-| 臂屈伸  | ![](https://www.anytimefitness.com/wp-content/uploads/2020/07/fullsizeoutput_33.webp)|下胸
+| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|下胸
 
 #### 背部
 ![](http://5b0988e595225.cdn.sohucs.com/images/20190927/0779582dda0c489b888bc0b5c78bec48.jpeg)
