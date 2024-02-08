@@ -1,3 +1,5 @@
+[Dimensions of wellness: Change your habits, change your life](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5508938/)
+
 # 个人成长
 [聪明人的个人成长, pavlina08](https://book.douban.com/subject/36018994/)
 

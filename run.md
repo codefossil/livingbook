@@ -1,4 +1,11 @@
-# 基本问题
+# 人类文明、现代体育
+
+[Physical Fitness History](https://www.lovetoknowhealth.com/fitness/physical-fitness-history)  
+孔子最早在六艺中提及射和御，奠定了价值观，从而有了功夫、摔跤和羽毛球的发展。  
+
+古希腊通过艺术和军事的推动体形，在整个欧洲发展了体操。  
+
+工业革命带来的生活方式的改变，造成了飙升的心脏病和糖尿病发病率，引起了政府和军队的注意，在健身房进行的健身行业的爆炸式发展，但这不是人类文明的初心。  
 
 [健康中国2030”规划纲要](https://www.gov.cn/zhengce/2016-10/25/content_5124174.htm)  
 推进健康中国建设，是全面建成小康社会、基本实现社会主义现代化的重要基础，是全面提升中华民族健康素质、实现人民健康与经济社会协调发展的国家战略，是积极参与全球健康治理、履行2030年可持续发展议程国际承诺的重大举措
@@ -61,20 +68,12 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 |成年人   |10pm  |8小时, 7+ |
 |中老年人   |8pm |8小时 |慢波质量和数量降低，记忆衰退，频繁清醒，节律器提前，但腺苷压力不足
 
-# 健康的膳食、饮料
+# 健康膳食
 
 > 吃什么和喝什么能满足营养需求，促进健康，并减少慢性疾病的风险
->
+> 
 
-[41%中国男人超重，只有这个省最苗条](https://36kr.com/p/2419627248689924)  
-男性40-60超重呈现增长模式  
-北方小麦饮食模式，碳水摄入量和能力比高  
-肥胖与经济水平的相关性高  
-
-[成人肥胖食养指南](http://www.nhc.gov.cn/cms-search/downFiles/a144741bc7a7469fbbf4a98efe614035.pdf)  
-根据营养科学理论、中医理论和目前膳食相关肥胖科学研究文献证据，在专家组共同讨论、建立共识的基础上，对成人肥胖患者的日常食养提出 6 条原则和建议。
-
-还根据不同地区，给出了一年四季、一日三餐的菜单和食谱。  
+## 食物、营养摄入
 
 [东方健康膳食模式「Eastern healthy diet pattern」 浅析](https://zhuanlan.zhihu.com/p/569173134)
 
@@ -128,6 +127,25 @@ Kleitman在猛犸洞里证明了一项惊人的科学发现，人类的昼夜节
 
 https://dtc.ucsf.edu/
 
+## 基础代谢、热量控制、减脂、健身营养
+
+![](image/base.png)
+
+![](image/health.png)
+
+![](image/drink.png)
+
+https://www.jirou.com/tool/reliang.php
+
+[41%中国男人超重，只有这个省最苗条](https://36kr.com/p/2419627248689924)  
+男性40-60超重呈现增长模式  
+北方小麦饮食模式，碳水摄入量和能力比高  
+肥胖与经济水平的相关性高  
+
+[成人肥胖食养指南](http://www.nhc.gov.cn/cms-search/downFiles/a144741bc7a7469fbbf4a98efe614035.pdf)  
+根据营养科学理论、中医理论和目前膳食相关肥胖科学研究文献证据，在专家组共同讨论、建立共识的基础上，对成人肥胖患者的日常食养提出 6 条原则和建议。
+
+还根据不同地区，给出了一年四季、一日三餐的菜单和食谱。 
 
 [我们为什么吃（太多）：食欲的新科学](https://book.douban.com/subject/36469148/)
 
@@ -142,7 +160,7 @@ https://dtc.ucsf.edu/
 
 成年男性平均每天摄入约2500千卡能量，相当于每天1050万焦耳的能量。一天有86400秒。从中我们可以计算出普通成年男性消耗能量的比率（或功率）。人体运行所需的功率是120瓦——与点亮一个灯泡的功率相当。  
 
-睡眠、锻炼、音乐、按摩、跳舞和欢笑都能够帮助你降低皮质醇水平。  
+今天的青少年在离开家庭进入陌生的大学世界时，也会产生同一种应激激素。在用皮质醇药物治疗炎症时，会产生食欲激增和觅食行为（还会让人感到略微兴奋，这能解释很多新生的行为）的副作用。增加的食欲导致了体重的增加。更高的皮质醇水平由此导致体重定点的升高，这解释了大一新生经常会增重5.5千克的现象。睡眠、锻炼、音乐、按摩、跳舞和欢笑都能够帮助你降低皮质醇水平。  
 
 [你是你吃出来的, 夏萌2017](https://book.douban.com/subject/27590675/)  
 [你是你吃出来的2, 夏萌2021](https://book.douban.com/subject/35340053/)
@@ -203,30 +221,13 @@ output=250大卡步行+100健身+1807基础=2157大卡
 
 ![](image/fat.drawio.png)
 
-
 [健身营养全书](https://book.douban.com/subject/30157798/)  
 
-
-## 基础代谢
-
-![](image/base.png)
-
-![](image/health.png)
-
-https://www.jirou.com/tool/reliang.php
-
-
-## 饮水
-![](image/drink.png)
-
-# 体育活动、增强肌肉
+# 健康体魄
 > 吃的健康、有规律的锻炼、维持体重、限制酒精、不抽烟
 > 体育健身活动可以提高人体的心肺功能、肌肉力量、柔韧、平衡和反应能力，改善身体成分，从而达到增强体质、提高健康水平的效果。
 >
 
-https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB%E8%82%8C%E8%82%89%E8%A7%A3%E5%89%96/
-
-![](https://hacker1356.files.wordpress.com/2020/12/image-53.png)
 
 [体育强国建设纲要](https://www.gov.cn/xinwen/2019-09/02/content_5426540.htm)
 
@@ -267,8 +268,8 @@ NHANES发现孩子和成年美国人有7.7个小时是久坐的。
 每周有氧和抗阻HIIT交替2次+额外1次，每周增加0.3m/h跑步机，2斤哑铃
 
 
-[更壮 更瘦 更强](https://book.douban.com/subject/27107200/)
-
+[更壮 更瘦 更强](https://book.douban.com/subject/27107200/)  
+逐步增加重量，正确饮食，让身体得到充分的休息。  
 
 [运动生理学，wilmore11](https://book.douban.com/subject/7058979/)
 
@@ -287,6 +288,154 @@ NHANES发现孩子和成年美国人有7.7个小时是久坐的。
   
 > 先力量训练（自由核心训练+固定器械）、再做有氧训练（跑步）。  
 > 地中海式饮食=高质量低脂+灵活大体积碳水  
+
+## 肌肉、增肌
+
+https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB%E8%82%8C%E8%82%89%E8%A7%A3%E5%89%96/
+
+![](https://hacker1356.files.wordpress.com/2020/12/image-53.png)
+
+[How to Gain Muscle, No Matter Who You Are](https://www.healthline.com/health/fitness/how-to-gain-muscle#training-tips)  
+1-5次=锻炼更多力量，6-12次=促进肌肉生长，12-20=增强肌肉耐力
+
+[Muscle hypertrophy and muscle strength: dependent or independent variables? A provocative review](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7582410/)
+
+Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Training Techniques and Methods
+
+[Why exercise builds muscles: titin mechanosensing controls skeletal muscle growth under load](https://www.sciencedirect.com/science/article/pii/S0006349521006093)  
+
+[更壮 更瘦 更强](https://book.douban.com/subject/27107200/)  
+通过举重，你实际上在肌肉纤维中造成了微小的撕裂(被称为“微撕裂”)，然后身体会修复这些撕裂，使肌肉更好地处理造成损伤的刺激。这就是肌肉生长的过程(科学上称为肥厚)。
+
+## 重量、频率强度、训练计划
+
+[居家健身不能少了运动处方](https://www.sport.gov.cn/n20001280/n20001265/n20066978/c24905714/content.html)  
+**运动中最佳心率**：110至130次，低于此心率范围不能达到锻炼目的，高于此范围则有可能诱发意外情况发生或者给身体造成损伤。
+
+**运动频率**： 每周3次，每次运动时间为50分钟。
+
+运动阶段分为热身运动、逐渐加量、整理恢复三部分：
+
+热身运动可以慢走、拉伸、活动各个关节，此时身体开始出汗，身体的运动兴奋性提高，时间为5分钟。
+
+逐渐加量需要进行40分钟运动，该阶段逐步增加运动强度达到最佳心率范围，持续30分钟。
+
+整理恢复时，四肢进行韧带拉伸伴深呼吸，恢复至平静状态，时间为5分钟。
+
+[How To Build Muscle, According To Experts](https://www.forbes.com/health/fitness/how-to-build-muscle/)  
+首先，要记住引发肥大的三个主要因素:机械张力、肌肉损伤和代谢反应。  
+
+**评估你的1RM重量**。完成多组（新手2-3组），每组6-12次，每次65%-85% 1RM，组间休息<60秒，最大限度提升睾酮和生长激素。
+
+**重新调整训练容量**。随着肌肉能力的增强，同样的阻力无法带来更多的肌肉组织破坏，个把月要重新评估1RM重量。  
+
+补充蛋白质1.2-2.0g/kg。
+
+[How To Set Up A 7-Day Workout Schedule, According to Experts](https://www.forbes.com/health/fitness/workout-schedule/)  
+在适度的运动中，你应该感觉自己在工作，但可以很好地呼吸，自由地说话。他说，剧烈运动使你的呼吸达到一次只能咕哝几句话的程度。  
+
+为了增加肌肉大小和力量，最多做6-8次；为了增加耐力，增加到12-25次。做2-4组。
+
+根据自身不同目标，选择各种不同的训练内容交替进行。比如周一、四=有氧运动、周二、五=阻力、周三、六=平衡和灵活、周日=拉伸和慢走。 
+
+[健身房重訓新手怎麼開始？](https://sport.heho.com.tw/archives/4802)  
+重訓屬於強度高的運動，它不像有氧運動一樣可以持續做，每個組(回)數之間需要休息，才不會使肌肉使用過度而受傷。強度越高每組之間休息的秒數也要越長，ㄧ般來說輕阻力(輕重量)可做12下以上，休息時間為30-60秒 ; 中阻力可做8-12下，休息時間為60-90秒 ; 高阻力(大重量)只能做8下以下，休息時間為兩分鐘左右。
+
+首先將訓練依部位拆為上半身(胸部、肩部、背部、手部)與下半身(核心、腿部、臀部)。建議每個動作做8-12下，做3-5回(組)，每回之間休息30-90秒。每週輪兩次，其中ㄧ次可做重量輕且動作次數多(15下)。從大肌群開始做(大腿肌、背肌)，核心腹部放中後段練。
+
+周一、四=上半身，周二、五=下半身，周三、六、日=伸展或者休息
+
+## 举重、哑铃、器械、自由锻炼
+
+### 上半身
+|   |   |    |
+|---|---|---|
+| 俯卧撑  | ![](https://p7.itc.cn/q_70/images03/20220401/e10f7fdcc8514b6ea1e665019a1ce823.jpeg)|
+| 哑铃胸推| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrpUWwUSDRy6cPhFCEiOh5fL7-ltQHp1Usw&usqp=CAU)|
+| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
+| 肱三头肌支撑  | ![](https://www.anytimefitness.com/wp-content/uploads/2020/07/fullsizeoutput_33.webp)|
+
+#### 胸部
+![](https://www.jianshen8.com/uploads/allimg/130719/2_130719142907_3.jpg)
+
+| |   |    |
+|---|---|---|
+| 上斜哑铃卧推| ![](https://k.sinaimg.cn/n/translate/20160722/4CnF-fxuhukv7308123.jpg/w700d1q75cms.jpg)|上胸
+| 卧推  | ![](https://picx.zhimg.com/v2-b02de09079d0ebf05faa3863cf2b9803_720w.jpg?source=172ae18b)|中胸
+| 臂屈伸  | ![](https://www.anytimefitness.com/wp-content/uploads/2020/07/fullsizeoutput_33.webp)|下胸
+
+#### 背部
+![](http://5b0988e595225.cdn.sohucs.com/images/20190927/0779582dda0c489b888bc0b5c78bec48.jpeg)
+
+| |   |    |
+|---|---|---|
+| 硬拉  | ![](https://d3gjxtgqyywct8.cloudfront.net/o2o/image/ac01bb9e-fec2-4d34-a26a-914f69a35f60.jpg)|
+| 引体向上| ![](https://pic1.zhimg.com/80/v2-aca2dbaabe55d923562d3b6ad9e7ffa0_1440w.webp)|
+| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
+| hyper y/w  | ![](https://athleanx.com/wp-content/uploads/2019/07/hyper-y-w-combo-exercise.png)|
+
+#### 肩部
+![](https://jo-fitness.com/wp-content/uploads/2019/11/arti6.png) 
+
+|   |  |    |
+|---|---|---|
+| 过头推举  | ![](http://p6.toutiaoimg.com/large/pgc-image/bab984ad42c64e5a8955cf666446780b?from=detail&index=4)|
+| 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png)|
+| 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp)|
+
+#### 手臂
+![](https://gymxuan.files.wordpress.com/2018/09/e882b1e4b889e9a0ade8828ce8a7a3e589962_17021121214671583.jpg?w=700)
+
+
+![](https://gymxuan.files.wordpress.com/2018/09/e882b1e4ba8ce9a0ade8828c-copy.jpg)
+
+前臂
+![](https://gymxuan.files.wordpress.com/2018/09/e882b1e6a988e8828ca.jpg)
+
+|  |   |    |
+|---|---|---|
+| 二头弯举  | ![](https://www.inspireusafoundation.org/wp-content/uploads/2023/02/barbell-cheat-curl.gif)|
+| 上斜哑铃弯举| ![](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/incline-dumbbell-curl.gif)|
+| 绳索下压超级组  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgy8OFiaE0PuudQFxicO3DIwvIcou3Vv2OUQvibwXiaIeVVryVtxRuRibYRqgoicB1XQl6UibLMHyicOWFBUaA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+| 弹力带哑铃碎颅式  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgy8OFiaE0PuudQFxicO3DIwvIIpZ8KUSP190uBtm1MYZiapJkJqWAct1zlNAUcibicaibrEsjVdA0d5icDVA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+| 垂式彎舉  | ![](https://gymxuan.files.wordpress.com/2018/09/6.jpg)|
+| 哑铃农夫行走  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgwCOJMT2ZSTsPh0WM3QUO78qU4RqgnBibJDS9vNa19eGzm6N7fiapzSVib9QyIS89LvXG6YO2dJicb3UA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+
+
+### 下半身
+![](https://img.medsci.cn/images/20221123/5f9e0205da6944e791865c567203dc99.jpg)
+
+|  |   |    |
+|---|---|---|
+| 深蹲练习  | ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
+| 弓箭步  | ![](https://wellness360magazine.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-12.13.51-PM.png)|
+| 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
+| 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
+
+### 腹部、核心
+|   |   |    |
+|---|---|---|
+| 平板支撑| 3组30s, ![](https://p7.itc.cn/q_70/images03/20220401/d4fb8dd3852c4cc7ba83cf5949b19d80.png), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItOZnzwibUtzHGKcE8dHLt8YGbt8JOPeQlV2r6rC23Hys06fmID8zAE1g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://media1.popsugar-assets.com/files/thumbor/Q8bvRCSknQfwtdo_j2QkBQmiwSE=/fit-in/792x792/filters:format_auto():upscale()/2014/04/25/733/n/1922729/e43864e566adffe4_side_elbow_plank.jpg)|
+| 大锤摇摆  |![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItbvPFuvfRZHUPibphHmzMXfHsbz2icZDIfXqicuUFTuRUW69SBSlnjKJlA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1) |
+| 登山  |3组1min， ![](https://i.insider.com/61ddba714ede320018b6ffb8?width=700), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoIticwn2WKbIuODFUhCEtcvYGDicVibIqE6Y5z7NGBbdJ62OkSaMkaC9NHDw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+| 卷腹  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItaHKxcMs4pq3Z8feUgibAusJbn9OxM7yoHrzhQ06UvHLjjshNPGIFA5w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+
+### 有氧、灵活、平衡、耐力
+|   |   |    |
+|---|---|---|
+| 跑步、徒步、骑行、瑜伽、快走 | 30mins|![](https://www.inspireusafoundation.org/wp-content/uploads/2022/08/incline-treadmill.gif), ![](https://www.inspireusafoundation.org/wp-content/uploads/2022/10/running-on-treadmill.gif)
+| 开合跳  |3组1min|![](https://cdn.shopify.com/s/files/1/0075/4673/2662/files/how-to-do-jumping-jacks.jpg)
+| 高抬腿  |3组1min|![](https://i.pinimg.com/originals/b4/77/a9/b477a978bd0283dc983a15dccd4cdb47.gif)
+| 波比跳  |3组30s|![](https://i.pinimg.com/564x/59/6f/f2/596ff2e057ad8888077d2112ae3810dc.jpg)
+
+
+## 运动伤痛预防、治疗、康复
+
+[硬拉、卧推时手肘疼痛，你可能患网球肘或高尔夫球肘，怎么破解？](https://www.sohu.com/a/389358998_120562864)  
+引起网球肘和高尔夫球肘主要原因：重复性工作、上肢运动过多、强力刺激等。
+
+网球肘和高尔夫球肘最佳的纠正训练是将肌肉的柔韧性训练到最好，以此来降低肌肉对爆发力和稳定能力的限制，必须强化伸屈肌群的离心功能，从而使其对肘和腕有良好的稳定作用，减少肌腱的压力。
+
 
 # 健康教育
 
