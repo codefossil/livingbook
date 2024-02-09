@@ -348,6 +348,8 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 
 [如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
 
+[【2023】腹肌訓練全攻略：5大秘訣提升腹肌感受度！男女通用３大腹部訓練動作](https://physicfit.com/abs-training-2/)
+
 ### 上半身
 |   |   |    |
 |---|---|---|
