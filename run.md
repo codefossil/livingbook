@@ -316,7 +316,7 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 |最大化增肌   | 1g/lb蛋白质+2g/lb碳水+1g/3lb脂肪  |然后根据自己的精力程度进行10-15%的调整，控制总共的热量摄入。
 |最大化减脂   | 1.2g/lb蛋白质+1g/lb碳水+1g/5lb脂肪  |1lb脂肪=3500大卡=7*500大卡缺口。通过观察自己的体重、衣服适配度、镜子感观、精力、力量、睡眠。减脂的时候，基础代谢会下降，皮质醇在体内更久，睾丸激素减少，肌肉中的糖原减少。
 
-总体来说本书是提供一个**重力量，轻组数**的训练策略。每天训练1-2肌肉群，每组4-6次，每次提留5秒（2-1-2），80-85% 1RM，组间休息2-3分钟，总共45-60分钟。每5-7天重复同一肌肉群。8-10周休息一周。  
+总体来说本书是提供一个**重力量，轻组数**的训练策略。每天训练1-2肌肉群，每个肌肉群做6-9工作组（不包括热身组），每组4-6次，每次提留5秒（2-1-2），80-85% 1RM，组间休息2-3分钟，总共45-60分钟。每5-7天重复同一肌肉群。8-10周休息一周。  
 热身组，休息1分钟，10个同样重量，休息1分钟
 
 |   |   |
@@ -331,7 +331,7 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 
 d1=胸+肱三头肌、d2=背+肱二头肌、d3=腿+肩
 
-d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
+d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 ## 重量、频率强度、训练计划
 
@@ -391,7 +391,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
 | |   |    |
 |---|---|---|
 | 上斜哑铃卧推| ![](https://k.sinaimg.cn/n/translate/20160722/4CnF-fxuhukv7308123.jpg/w700d1q75cms.jpg)|上胸
-| 卧推  | ![](https://picx.zhimg.com/v2-b02de09079d0ebf05faa3863cf2b9803_720w.jpg?source=172ae18b)|中胸
+| 卧推  | ![](https://picx.zhimg.com/v2-b02de09079d0ebf05faa3863cf2b9803_720w.jpg)|中胸
 | 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|下胸
 
 #### 背部
@@ -399,9 +399,10 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
 
 | |   |    |
 |---|---|---|
-| 硬拉  | ![](https://d3gjxtgqyywct8.cloudfront.net/o2o/image/ac01bb9e-fec2-4d34-a26a-914f69a35f60.jpg)|
+| 硬拉  | ![](https://d3gjxtgqyywct8.cloudfront.net/o2o/image/ac01bb9e-fec2-4d34-a26a-914f69a35f60.jpg)，![](https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png)|
+| 划船  | ![](https://static.wixstatic.com/media/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg/v1/fill/w_720,h_545,al_c,lg_1,q_85/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg), ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
 | 引体向上| ![](https://pic1.zhimg.com/80/v2-aca2dbaabe55d923562d3b6ad9e7ffa0_1440w.webp)|
-| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
+|窄/宽手下拉|![](https://weighttraining.guide/wp-content/uploads/2016/10/Cable-close-grip-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/10/Face-pull-resized.png)
 | hyper y/w  | ![](https://athleanx.com/wp-content/uploads/2019/07/hyper-y-w-combo-exercise.png)|
 
 #### 肩部
@@ -409,9 +410,10 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
 
 |   |  |    |
 |---|---|---|
-| 过头推举  | ![](http://p6.toutiaoimg.com/large/pgc-image/bab984ad42c64e5a8955cf666446780b?from=detail&index=4)|
-| 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png)|
+| 过头推举  | ![](http://p6.toutiaoimg.com/large/pgc-image/bab984ad42c64e5a8955cf666446780b?from=detail&index=4)，![](https://fitnessvolt.com/wp-content/uploads/2019/04/seated-barbell-overhead-press.jpg)|
+| 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png),![](https://static.vecteezy.com/system/resources/previews/023/686/436/original/man-doing-seated-bent-over-rear-delt-raises-exercise-vector.jpg)|
 | 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp)|
+|杠铃耸肩|![](https://cdn.mos.cms.futurecdn.net/Gbx5Ss7Pw2YsGKejedxciK-1200-80.jpg)|
 
 #### 手臂
 ![](https://gymxuan.files.wordpress.com/2018/09/e882b1e4b889e9a0ade8828ce8a7a3e589962_17021121214671583.jpg?w=700)
@@ -440,6 +442,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
 | 深蹲练习  | ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
 | 弓箭步  | ![](https://wellness360magazine.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-12.13.51-PM.png)|
 | 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
+| 杠铃臀推  | ![](https://weighttraining.guide/wp-content/uploads/2017/04/barbell-hip-thrust-resized.png)|
 | 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
 
 ### 腹部、核心
@@ -447,8 +450,8 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=腿、d5=手臂+腹肌
 |---|---|---|
 | 平板支撑| 3组30s, ![](https://p7.itc.cn/q_70/images03/20220401/d4fb8dd3852c4cc7ba83cf5949b19d80.png), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItOZnzwibUtzHGKcE8dHLt8YGbt8JOPeQlV2r6rC23Hys06fmID8zAE1g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://media1.popsugar-assets.com/files/thumbor/Q8bvRCSknQfwtdo_j2QkBQmiwSE=/fit-in/792x792/filters:format_auto():upscale()/2014/04/25/733/n/1922729/e43864e566adffe4_side_elbow_plank.jpg)|
 | 大锤摇摆  |![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItbvPFuvfRZHUPibphHmzMXfHsbz2icZDIfXqicuUFTuRUW69SBSlnjKJlA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1) |
-| 登山  |3组1min， ![](https://i.insider.com/61ddba714ede320018b6ffb8?width=700), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoIticwn2WKbIuODFUhCEtcvYGDicVibIqE6Y5z7NGBbdJ62OkSaMkaC9NHDw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
-| 卷腹  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItaHKxcMs4pq3Z8feUgibAusJbn9OxM7yoHrzhQ06UvHLjjshNPGIFA5w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
+| 登山  |3组1min， ![](https://i.insider.com/61ddba714ede320018b6ffb8?width=700), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoIticwn2WKbIuODFUhCEtcvYGDicVibIqE6Y5z7NGBbdJ62OkSaMkaC9NHDw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://i.pinimg.com/736x/79/24/7f/79247f3265c1b56de653ff98301f1132.jpg)|
+| 卷腹  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItaHKxcMs4pq3Z8feUgibAusJbn9OxM7yoHrzhQ06UvHLjjshNPGIFA5w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1),![](https://www.inspireusafoundation.org/wp-content/uploads/2022/12/captains-chair-leg-raise-benefits.jpg)|
 
 ### 有氧、灵活、平衡、耐力
 |   |   |    |
