@@ -375,6 +375,8 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 [如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
 
+[【动作】：你可能练了很久臂屈伸，但是未必做对了！](https://zhuanlan.zhihu.com/p/116074434)
+
 [【2023】腹肌訓練全攻略：5大秘訣提升腹肌感受度！男女通用３大腹部訓練動作](https://physicfit.com/abs-training-2/)
 
 ### 上半身
@@ -382,7 +384,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 |---|---|---|
 | 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
 | 哑铃胸推| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrpUWwUSDRy6cPhFCEiOh5fL7-ltQHp1Usw&usqp=CAU)|
-| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg)|
+| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png)|
 | 肱三头肌支撑  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|
 
 #### 胸部
@@ -390,9 +392,11 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 | |   |    |
 |---|---|---|
-| 上斜哑铃卧推| ![](https://k.sinaimg.cn/n/translate/20160722/4CnF-fxuhukv7308123.jpg/w700d1q75cms.jpg)|上胸
-| 卧推  | ![](https://picx.zhimg.com/v2-b02de09079d0ebf05faa3863cf2b9803_720w.jpg)|中胸
-| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|下胸
+| 杠铃卧推/蝴蝶飞鸟  |![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4), ![](https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png) |中胸
+| 上斜哑铃卧推| ![](https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png)|上胸
+| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)，![](https://www.burnthefatinnercircle.com/members/images/1093g.jpg?cb=20240110024242)|下胸
+| 交叉夹胸  | ![](https://fitnessvolt.com/wp-content/uploads/2019/05/cable-crossover-1024x576.jpg)|上述中间交叉
+
 
 #### 背部
 ![](http://5b0988e595225.cdn.sohucs.com/images/20190927/0779582dda0c489b888bc0b5c78bec48.jpeg)
@@ -451,7 +455,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 | 平板支撑| 3组30s, ![](https://p7.itc.cn/q_70/images03/20220401/d4fb8dd3852c4cc7ba83cf5949b19d80.png), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItOZnzwibUtzHGKcE8dHLt8YGbt8JOPeQlV2r6rC23Hys06fmID8zAE1g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://media1.popsugar-assets.com/files/thumbor/Q8bvRCSknQfwtdo_j2QkBQmiwSE=/fit-in/792x792/filters:format_auto():upscale()/2014/04/25/733/n/1922729/e43864e566adffe4_side_elbow_plank.jpg)|
 | 大锤摇摆  |![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItbvPFuvfRZHUPibphHmzMXfHsbz2icZDIfXqicuUFTuRUW69SBSlnjKJlA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1) |
 | 登山  |3组1min， ![](https://i.insider.com/61ddba714ede320018b6ffb8?width=700), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoIticwn2WKbIuODFUhCEtcvYGDicVibIqE6Y5z7NGBbdJ62OkSaMkaC9NHDw/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://i.pinimg.com/736x/79/24/7f/79247f3265c1b56de653ff98301f1132.jpg)|
-| 卷腹  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItaHKxcMs4pq3Z8feUgibAusJbn9OxM7yoHrzhQ06UvHLjjshNPGIFA5w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1),![](https://www.inspireusafoundation.org/wp-content/uploads/2022/12/captains-chair-leg-raise-benefits.jpg)|
+| 卷腹  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItaHKxcMs4pq3Z8feUgibAusJbn9OxM7yoHrzhQ06UvHLjjshNPGIFA5w/640?wx_fmt=gif&wxfrom=5&wx_lazy=1),![](https://www.inspireusafoundation.org/wp-content/uploads/2022/12/captains-chair-leg-raise-benefits.jpg)， ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFkD-e_lg6c-cneBBXWL0tAFrU7J8CSUbaOW1Fk3PH1IXNZx931-GubUkwsSyAD37GNF8&usqp=CAU)|
 
 ### 有氧、灵活、平衡、耐力
 |   |   |    |
