@@ -416,7 +416,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 |---|---|---|
 | 过头推举  | ![](http://p6.toutiaoimg.com/large/pgc-image/bab984ad42c64e5a8955cf666446780b?from=detail&index=4)，![](https://fitnessvolt.com/wp-content/uploads/2019/04/seated-barbell-overhead-press.jpg)|
 | 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png),![](https://static.vecteezy.com/system/resources/previews/023/686/436/original/man-doing-seated-bent-over-rear-delt-raises-exercise-vector.jpg)|
-| 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp)|
+| 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp), ![](https://fitnessvolt.com/wp-content/uploads/2018/04/cable-one-arm-front-raise.jpg), |3组21响，前、后、中
 |杠铃耸肩|![](https://cdn.mos.cms.futurecdn.net/Gbx5Ss7Pw2YsGKejedxciK-1200-80.jpg)|
 
 #### 手臂
