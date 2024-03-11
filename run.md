@@ -412,12 +412,23 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 #### 肩部
 ![](https://jo-fitness.com/wp-content/uploads/2019/11/arti6.png) 
 
+[完美肩部训练计划](https://www.bilibili.com/video/BV1pb411q7Mv?p=4&vd_source=d62bfd78dd962a5ca21e880c1f120e5a)  
+充分热身，避免受伤。  
+在正式训练的间隙，安排中间组肩膀的拉伸。按照后/中/前的顺序。  
+要练爆发力的话，多肌群发力，可以上借力侧平举和单侧过肩举。  
+
+[【练肩的细节和容易出现的问题】第三视角私教课](https://www.bilibili.com/video/BV1RX4y1j7P6/?spm_id_from=333.337.search-card.all.click&vd_source=d62bfd78dd962a5ca21e880c1f120e5a)  
+顶峰收缩。  
+离心控制。  
+肌肉募集感。  
+
 |   |  |    |
 |---|---|---|
 | 过头推举  | ![](http://p6.toutiaoimg.com/large/pgc-image/bab984ad42c64e5a8955cf666446780b?from=detail&index=4)，![](https://fitnessvolt.com/wp-content/uploads/2019/04/seated-barbell-overhead-press.jpg)|
-| 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png),![](https://static.vecteezy.com/system/resources/previews/023/686/436/original/man-doing-seated-bent-over-rear-delt-raises-exercise-vector.jpg)|
 | 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp), ![](https://fitnessvolt.com/wp-content/uploads/2018/04/cable-one-arm-front-raise.jpg), |3组21响，前、后、中
-|杠铃耸肩|![](https://cdn.mos.cms.futurecdn.net/Gbx5Ss7Pw2YsGKejedxciK-1200-80.jpg)|
+| 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png),![](https://static.vecteezy.com/system/resources/previews/023/686/436/original/man-doing-seated-bent-over-rear-delt-raises-exercise-vector.jpg)|
+|面拉| ![](https://weighttraining.guide/wp-content/uploads/2016/10/Face-pull-resized.png)|慢做
+|坐姿反向飞鸟| ![](https://cdn.shopify.com/s/files/1/1633/7705/files/reverse_pec_deck_flye_480x480.png?v=1642827419)|
 
 #### 手臂
 ![](https://gymxuan.files.wordpress.com/2018/09/e882b1e4b889e9a0ade8828ce8a7a3e589962_17021121214671583.jpg?w=700)
