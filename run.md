@@ -450,14 +450,14 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 
 ### 下半身
-![](https://img.medsci.cn/images/20221123/5f9e0205da6944e791865c567203dc99.jpg)
+![](https://ibestidea.com/wp-content/uploads/2021/11/%E8%85%98%E7%BB%B3%E8%82%8C.jpeg)
 
 |  |   |    |
 |---|---|---|
 | 深蹲练习  | ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
-| 弓箭步  | ![](https://wellness360magazine.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-12.13.51-PM.png)|
-| 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
 | 杠铃臀推  | ![](https://weighttraining.guide/wp-content/uploads/2017/04/barbell-hip-thrust-resized.png)|
+| 弓箭步  | ![](https://wellness360magazine.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-12.13.51-PM.png)|各种变体，训练臀肌、股四头肌
+| 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
 | 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
 
 ### 腹部、核心
