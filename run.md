@@ -452,9 +452,16 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 ### 下半身
 ![](https://ibestidea.com/wp-content/uploads/2021/11/%E8%85%98%E7%BB%B3%E8%82%8C.jpeg)
 
+[屈髋](https://zhuanlan.zhihu.com/p/29587961)  
+很多人不会动用髋关节，总是用“弯腰”来代替“屈髋”，腰椎承力能力显然不如髋，所以日常搬运重物时就有伤腰的风险。同理，很多人下肢运动时只会蹬膝，时间久了膝盖就受伤了。
+
+屈髋这个动作，只有髋关节有一个很大的折角，屈髋全程要保证上半身，尤其是腰背都是平直绷紧的状态。下半身小腿不动，大腿会向后走一点，导致膝关节处有一点角度变化。因为当你的髋角有个大的变化之后，上身前倾，为了重心稳定，防止向前倒下去，屁股必须往后走来平衡重心，所以会有一点屈膝。但我们要知道主要动的关节是髋，而不是膝。
+
+[【骨盆眨眼】终极解决方案](https://www.bilibili.com/video/BV1BM4y1H7bU/?spm_id_from=333.337.search-card.all.click&vd_source=d62bfd78dd962a5ca21e880c1f120e5a)  
+
 |  |   |    |
 |---|---|---|
-| 深蹲练习  | ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
+| 深蹲练习  | ![](https://weighttraining.guide/wp-content/uploads/2016/10/barbell-squat-resized-FIXED-2.png), ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
 | 杠铃臀推  | ![](https://weighttraining.guide/wp-content/uploads/2017/04/barbell-hip-thrust-resized.png)|
 | 弓箭步  | ![](https://wellness360magazine.com/wp-content/uploads/2020/05/Screen-Shot-2020-05-20-at-12.13.51-PM.png)|各种变体，训练臀肌、股四头肌
 | 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
