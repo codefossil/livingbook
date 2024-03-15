@@ -64,6 +64,8 @@
 
 [陈启宗：香港民生有问题，但主要是政治问题](http://www.ccg.org.cn/archives/39366)
 
+http://cpc.people.com.cn/GB/67481/444924/index.html
+
 # 国家安全、国防、国际问题
 
 [新时代的中国国防](https://www.gov.cn/zhengce/2019-07/24/content_5414325.htm)

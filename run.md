@@ -373,13 +373,41 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 ## 举重、哑铃、器械、自由锻炼
 
-[如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
+### 逃杠、安全
+
+[卧推被压？四种逃杠技术在这里](https://zhuanlan.zhihu.com/p/43981573)
+
+[深蹲致死！一定要学会如何逃杠！CrossFit Vlog](https://www.bilibili.com/video/BV12m4y1L7Wi)
+
+### 收紧核心、发力与骨骼
+
+
+[屈髋](https://zhuanlan.zhihu.com/p/29587961)  
+很多人不会动用髋关节，总是用“弯腰”来代替“屈髋”，腰椎承力能力显然不如髋，所以日常搬运重物时就有伤腰的风险。同理，很多人下肢运动时只会蹬膝，时间久了膝盖就受伤了。
+
+屈髋这个动作，只有髋关节有一个很大的折角，屈髋全程要保证上半身，尤其是腰背都是平直绷紧的状态。下半身小腿不动，大腿会向后走一点，导致膝关节处有一点角度变化。因为当你的髋角有个大的变化之后，上身前倾，为了重心稳定，防止向前倒下去，屁股必须往后走来平衡重心，所以会有一点屈膝。但我们要知道主要动的关节是髋，而不是膝。
+
+[【骨盆眨眼】终极解决方案](https://www.bilibili.com/video/BV1BM4y1H7bU/?spm_id_from=333.337.search-card.all.click&vd_source=d62bfd78dd962a5ca21e880c1f120e5a)  
+
+[健身这么久你会收紧肩胛骨吗？到底是啥玩意？](https://www.sohu.com/a/546437783_121373052)  
+肩带关节可以做上提和下降（耸肩和沉肩）、前引和后缩（含胸和扩胸）、上回旋和下回旋（转肩）等各个方向的运动。肩带关节的这些运动主要就是由肩胛骨来体现的。
+
+要收紧肩胛骨，需要同时做沉肩和挺胸的动作。在运动解剖学里，沉肩也叫肩胛骨下降，主要是由斜方肌下束收缩完成。
+
+挺胸也叫肩胛骨后缩，主要是由两块肩胛骨之间的菱形肌和斜方肌中束共同收缩来完成。
+
+![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0907%2F9239a5e6j00rhuk5r004ec000rs00rsm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
+
+[前锯肌训练详解](https://www.bilibili.com/video/BV1Vx42127ZE)
+
+### 上半身
+
 
 [【动作】：你可能练了很久臂屈伸，但是未必做对了！](https://zhuanlan.zhihu.com/p/116074434)
 
-[【2023】腹肌訓練全攻略：5大秘訣提升腹肌感受度！男女通用３大腹部訓練動作](https://physicfit.com/abs-training-2/)
 
-### 上半身
+[如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
+
 |   |   |    |
 |---|---|---|
 | 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
@@ -399,7 +427,9 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 
 #### 背部
+
 ![](http://5b0988e595225.cdn.sohucs.com/images/20190927/0779582dda0c489b888bc0b5c78bec48.jpeg)
+
 
 | |   |    |
 |---|---|---|
@@ -452,13 +482,6 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 ### 下半身
 ![](https://ibestidea.com/wp-content/uploads/2021/11/%E8%85%98%E7%BB%B3%E8%82%8C.jpeg)
 
-[屈髋](https://zhuanlan.zhihu.com/p/29587961)  
-很多人不会动用髋关节，总是用“弯腰”来代替“屈髋”，腰椎承力能力显然不如髋，所以日常搬运重物时就有伤腰的风险。同理，很多人下肢运动时只会蹬膝，时间久了膝盖就受伤了。
-
-屈髋这个动作，只有髋关节有一个很大的折角，屈髋全程要保证上半身，尤其是腰背都是平直绷紧的状态。下半身小腿不动，大腿会向后走一点，导致膝关节处有一点角度变化。因为当你的髋角有个大的变化之后，上身前倾，为了重心稳定，防止向前倒下去，屁股必须往后走来平衡重心，所以会有一点屈膝。但我们要知道主要动的关节是髋，而不是膝。
-
-[【骨盆眨眼】终极解决方案](https://www.bilibili.com/video/BV1BM4y1H7bU/?spm_id_from=333.337.search-card.all.click&vd_source=d62bfd78dd962a5ca21e880c1f120e5a)  
-
 |  |   |    |
 |---|---|---|
 | 深蹲练习  | ![](https://weighttraining.guide/wp-content/uploads/2016/10/barbell-squat-resized-FIXED-2.png), ![](https://p9.itc.cn/q_70/images03/20220401/b480de95b06e453e94c3652b6a19ab2e.png)|
@@ -468,6 +491,9 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 | 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
 
 ### 腹部、核心
+
+[【2023】腹肌訓練全攻略：5大秘訣提升腹肌感受度！男女通用３大腹部訓練動作](https://physicfit.com/abs-training-2/)
+
 |   |   |    |
 |---|---|---|
 | 平板支撑| 3组30s, ![](https://p7.itc.cn/q_70/images03/20220401/d4fb8dd3852c4cc7ba83cf5949b19d80.png), ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgw3iacVgX8sePPe8U3RSnoItOZnzwibUtzHGKcE8dHLt8YGbt8JOPeQlV2r6rC23Hys06fmID8zAE1g/640?wx_fmt=gif&wxfrom=5&wx_lazy=1), ![](https://media1.popsugar-assets.com/files/thumbor/Q8bvRCSknQfwtdo_j2QkBQmiwSE=/fit-in/792x792/filters:format_auto():upscale()/2014/04/25/733/n/1922729/e43864e566adffe4_side_elbow_plank.jpg)|
@@ -491,6 +517,12 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 网球肘和高尔夫球肘最佳的纠正训练是将肌肉的柔韧性训练到最好，以此来降低肌肉对爆发力和稳定能力的限制，必须强化伸屈肌群的离心功能，从而使其对肘和腕有良好的稳定作用，减少肌腱的压力。
 
+[【体态康复系列②】骨盆前倾的自我筛查与解决方案！！！！](https://www.bilibili.com/video/BV1nv4y177sQ)  
+![](https://miro.medium.com/v2/resize:fit:1400/0*wyGFxZMXd_5e9OkW.jpg)
+![](https://hips.hearstapps.com/hmg-prod/images/gettyimages-1198193137.jpg)
+
+[【体态康复系列③】腰椎间盘突出了！自懂自救](https://www.bilibili.com/video/BV1kh411G7Li)  
+![](https://p7.itc.cn/images01/20210804/639be01b71e848249e544fe601b5d42c.jpeg)
 
 # 健康教育
 
