@@ -12,6 +12,7 @@
 
 [作为“大科学”的人文科学](http://www.aisixiang.com/data/101540.html)  
 
+[Ontology and Epistemology](https://www.webpages.uidaho.edu/engl257/classical/ontology_and_epistemology.htm)
 
 # 科学
 [论科学 、技术与工程之间的关系, 2006](http://www.cnki.com.cn/Article/CJFDTOTAL-KXBZ200603005.htm)
