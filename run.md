@@ -437,7 +437,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 | 引体向上| ![](https://pic1.zhimg.com/80/v2-aca2dbaabe55d923562d3b6ad9e7ffa0_1440w.webp)|反手练背阔肌，正手练大圆肌, 也可以做手臂直立激活
 | 划船/T杆  | ![](https://static.wixstatic.com/media/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg/v1/fill/w_720,h_545,al_c,lg_1,q_85/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg), ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2023/08/Chest-supported-underhand-grip-t-bar-row.png)|速度更重要
 |窄/宽手下拉, 坐姿平拉|![](https://weighttraining.guide/wp-content/uploads/2016/10/Cable-close-grip-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/Seated-cable-row-new-resized.png)|
-| hyper y/w  | ![](https://athleanx.com/wp-content/uploads/2019/07/hyper-y-w-combo-exercise.png), ![](https://5b0988e595225.cdn.sohucs.com/images/20170622/9354466023444b98a1e558afbe63407a.png)|
+| hyper y/w/山羊挺  | ![](https://athleanx.com/wp-content/uploads/2019/07/hyper-y-w-combo-exercise.png), ![](https://5b0988e595225.cdn.sohucs.com/images/20170622/9354466023444b98a1e558afbe63407a.png)|
 
 #### 肩部
 ![](https://jo-fitness.com/wp-content/uploads/2019/11/arti6.png) 
