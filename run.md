@@ -379,8 +379,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 [深蹲致死！一定要学会如何逃杠！CrossFit Vlog](https://www.bilibili.com/video/BV12m4y1L7Wi)
 
-### 收紧核心、发力与骨骼
-
+### 深层肌肉、核心收紧、骨骼运动
 
 [屈髋](https://zhuanlan.zhihu.com/p/29587961)  
 很多人不会动用髋关节，总是用“弯腰”来代替“屈髋”，腰椎承力能力显然不如髋，所以日常搬运重物时就有伤腰的风险。同理，很多人下肢运动时只会蹬膝，时间久了膝盖就受伤了。
@@ -398,7 +397,12 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 ![](https://nimg.ws.126.net/?url=http%3A%2F%2Fdingyue.ws.126.net%2F2022%2F0907%2F9239a5e6j00rhuk5r004ec000rs00rsm.jpg&thumbnail=660x2147483647&quality=80&type=jpg)
 
-[前锯肌训练详解](https://www.bilibili.com/video/BV1Vx42127ZE)
+[前锯肌训练详解](https://www.bilibili.com/video/BV1Vx42127ZE)  
+![](https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gray1215_zh.png/250px-Gray1215_zh.png)
+
+[肩袖肌群训练详解](https://www.bilibili.com/video/BV1yW421A7rn)
+![](https://i1.hoopchina.com.cn/hupuapp/bbs/128768668341633/thread_128768668341633_20200918165243_s_298458_w_1280_h_1650_45082.jpg)
+
 
 ### 上半身
 
@@ -497,7 +501,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 | 俯卧弯腿  | ![](https://hips.hearstapps.com/hmg-prod/images/tech-school-hamstring-1608120010.gif?resize=980:*) ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg)|
 | 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
 
-### 腹部、核心
+### 腹部
 
 [【2023】腹肌訓練全攻略：5大秘訣提升腹肌感受度！男女通用３大腹部訓練動作](https://physicfit.com/abs-training-2/)
 

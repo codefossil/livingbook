@@ -11,6 +11,9 @@
 根据科学文化的第一种意义，科学文化首先是科学家的创造性活动及其成果。因此，对于学习和理解科学来说，理解科学问题、科学发现的背景，理解科学方法和科学发现过程，显然都至关重要，当今我国的科学教育或理科教育则更为侧重知识传授而明显忽视背景、方法和过程，这种倾向不仅偏离科学教育的本质，也对应试教育起了推波助澜的作用。
 
 [作为“大科学”的人文科学](http://www.aisixiang.com/data/101540.html)  
+[马克思主义如何理解“科学”](https://www.jsthinktank.com/zhikuyanjiu/202302/t20230222_7838221.shtml)  
+[自然科学、社会科学和人文学科的内涵和外延](https://www.jianshu.com/p/1df84ea6f751)
+![](image/big-science.drawio.png)
 
 [Ontology and Epistemology](https://www.webpages.uidaho.edu/engl257/classical/ontology_and_epistemology.htm)
 
