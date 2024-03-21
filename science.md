@@ -10,12 +10,28 @@
 
 根据科学文化的第一种意义，科学文化首先是科学家的创造性活动及其成果。因此，对于学习和理解科学来说，理解科学问题、科学发现的背景，理解科学方法和科学发现过程，显然都至关重要，当今我国的科学教育或理科教育则更为侧重知识传授而明显忽视背景、方法和过程，这种倾向不仅偏离科学教育的本质，也对应试教育起了推波助澜的作用。
 
+[Ontology and Epistemology](https://www.webpages.uidaho.edu/engl257/classical/ontology_and_epistemology.htm)
+
+# 知识分类、学科分类
+[学科分类与代码:大学科学专业分类图谱|文科/理科/工科|知识](https://www.zhoulujun.cn/html/res/scienceTechnology/Encyclopaedia/8158.html)
+
+[国务院学位委员会第八届学科评议组成员名单](https://ks3-cn-beijing.ksyun.com/attachment/ba328e102c7d46ef27d7c6369b040ec1)  
+2020年各学科领军人物。  
+
+[中国科学院大学一级学科学位授予标准](http://www.fjirsm.cas.cn/yjsjy/xwgl/gzzd/202301/W020230116633802644699.pdf)  
+每个学科都有介绍和学位标准。  
+
+[中外学科划分情况比较研究](https://ciefr.pku.edu.cn/cbw/kyjb/a8b669e298a54f23971b06b04550d1a5.htm)
+
 [作为“大科学”的人文科学](http://www.aisixiang.com/data/101540.html)  
 [马克思主义如何理解“科学”](https://www.jsthinktank.com/zhikuyanjiu/202302/t20230222_7838221.shtml)  
-[自然科学、社会科学和人文学科的内涵和外延](https://www.jianshu.com/p/1df84ea6f751)
+[自然科学、社会科学和人文学科的内涵和外延](https://www.jianshu.com/p/1df84ea6f751)  
+[钱学森思维科学思想](https://book.douban.com/subject/10617446/)  
 ![](image/big-science.drawio.png)
 
-[Ontology and Epistemology](https://www.webpages.uidaho.edu/engl257/classical/ontology_and_epistemology.htm)
+人文科学主要研究人本身或与个体精神直接相关的信仰、情感、心态、理想、道德、审美、意义、价值等。  
+社会科学以社会作为研究对象，研究人的行为，其目标在于认识各种社会现象并尽可能找出它们的之间的关联。  
+自然科学是实验科学或日经验科学，也就是说它是基于经验的。  
 
 # 科学
 [论科学 、技术与工程之间的关系, 2006](http://www.cnki.com.cn/Article/CJFDTOTAL-KXBZ200603005.htm)
