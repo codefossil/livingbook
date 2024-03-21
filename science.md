@@ -26,12 +26,14 @@
 [作为“大科学”的人文科学](http://www.aisixiang.com/data/101540.html)  
 [马克思主义如何理解“科学”](https://www.jsthinktank.com/zhikuyanjiu/202302/t20230222_7838221.shtml)  
 [自然科学、社会科学和人文学科的内涵和外延](https://www.jianshu.com/p/1df84ea6f751)  
-[钱学森思维科学思想](https://book.douban.com/subject/10617446/)  
-![](image/big-science.drawio.png)
-
 人文科学主要研究人本身或与个体精神直接相关的信仰、情感、心态、理想、道德、审美、意义、价值等。  
 社会科学以社会作为研究对象，研究人的行为，其目标在于认识各种社会现象并尽可能找出它们的之间的关联。  
 自然科学是实验科学或日经验科学，也就是说它是基于经验的。  
+
+[钱学森思维科学思想](https://book.douban.com/subject/10617446/)  
+![](image/big-science.drawio.png)
+
+钱老通过运用马哲理论，把科学与马哲进行关联、分类、分层。  
 
 # 科学
 [论科学 、技术与工程之间的关系, 2006](http://www.cnki.com.cn/Article/CJFDTOTAL-KXBZ200603005.htm)
