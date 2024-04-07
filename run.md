@@ -331,7 +331,7 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 
 d1=胸+肱三头肌、d2=背+肱二头肌、d3=腿+肩
 
-d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
+d1=胸+腹肌、d2=背、休息1天、d3=大腿+小腿、d4=肩、d5=手臂+腹肌、休息2天
 
 ## 重量、频率强度、训练计划
 
@@ -414,7 +414,7 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 |   |   |    |
 |---|---|---|
-| 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
+| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)，![](https://www.burnthefatinnercircle.com/members/images/1093g.jpg?cb=20240110024242)|
 | 哑铃胸推| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrpUWwUSDRy6cPhFCEiOh5fL7-ltQHp1Usw&usqp=CAU)|
 | 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png)|
 | 肱三头肌支撑  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|
@@ -424,11 +424,11 @@ d1=胸+腹肌、d2=背+小腿、d3=肩、d4=大腿、d5=手臂+腹肌
 
 | |   |    |
 |---|---|---|
-| 杠铃卧推/蝴蝶飞鸟  |![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4), ![](https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png) |中胸
+| 蝴蝶飞鸟  |![](https://weighttraining.guide/wp-content/uploads/2016/12/Machine-Fly-resized.png) |中胸
+| 杠铃卧推  |![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Barbell-Bench-Press-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|中胸
 | 上斜哑铃卧推| ![](https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png)|上胸
-| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)，![](https://www.burnthefatinnercircle.com/members/images/1093g.jpg?cb=20240110024242)|下胸
 | 交叉夹胸  | ![](https://fitnessvolt.com/wp-content/uploads/2019/05/cable-crossover-1024x576.jpg)|上述中间交叉
-
+| 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
 
 #### 背部
 
