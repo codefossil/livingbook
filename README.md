@@ -9,7 +9,8 @@
 
 # 个人生活
 * [:kiss: 活着、幸福与人生观](living.md) 
-* [:weight_lifting_man: 营养、健身与人体](run.md)  
+* [:revolving_hearts: 睡眠、膳食营养与健康](run.md)  
+* [:weight_lifting_man: 科学健身与人体](run.md)  
 * [:moneybag: 财富、经济与社会](wealth.md)
 
 # 成长
