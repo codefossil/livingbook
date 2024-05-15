@@ -5,7 +5,7 @@
 
 [World Health Statistics 2023](https://www.who.int/data/stories/world-health-statistics-2023-a-visual-summary/)  
 
-[全球健康疾病负担，GBD](https://www.healthdata.org/research-analysis/gbd)
+[发展的新时代, 2023年度报告, 世界银行]()
 
 [2023全球实现可持续发展目标进展情况](https://unstats.un.org/sdgs/files/report/2023/secretary-general-sdg-report-2023--ZN.pdf?_gl=1*kf4whh*_ga*ODk4OTIyODMxLjE3MTUxMzI5NDc.*_ga_TK9BQL5X7Z*MTcxNTE0NjY1NS4zLjEuMTcxNTE0NzIwMS4wLjAuMA..)  
 现在是 2030 年征程的中点，这份特别版报告对照全球可持续发展目标指标框架，介绍 2015 年以来所取得进展的最新情况。  
@@ -97,9 +97,32 @@
 
 ## 相对贫困
 
-## 因病返贫、健康贫困与社会保障
+## 健康疾病负担
 > “救护车一响，一年猪白养；住上一次院，三年活白干；十年努力奔小康，一场大病全泡汤。”这是对大病突袭一个家庭后的形象描述。
 
+[全球健康疾病负担，GBD](https://www.healthdata.org/research-analysis/gbd)
+
+[2022年中国卫生总费用核算结果与分析](https://awsdownload.cqvip.com/downloadpaper/api/v1/pdf/stream/2024/7111310051?infos=QUZBQkFFRkNGQkZBQUVBREJLQUJBREFHQUtCTUFFQUhBT0ZIQk1BSkZIQUZBREJOQUVBRUFDRkhGQ0ZERkVBSEFPQUpGQ0FCQk1BREFBQUNBREJPQUdBQUFDQUFBREFCQUhBQkFFQUFCTUFFQUZBQkJJQUFCT0FCQk1CT0FDQUFBRkFGQk1BQkFHQk1BQkFBQkhBQUFJQUxBQ0FDQUtBRkFCQk9GRkZDRkFGRkFGQUlBQUFKQUpGRkFFRkhBQkZEQU9BREZEQUFBSEFJRkVGREZHQURGQ0ZDRkJBQ0FBQUlBRUFKQk9BQkJNQUJCUEZERko&clientID=205cba43-0279-479f-8d43-353fabd798c0&fileName=2022%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%8d%ab%e7%94%9f%e6%80%bb%e8%b4%b9%e7%94%a8%e6%a0%b8%e7%ae%97%e7%bb%93%e6%9e%9c%e4%b8%8e%e5%88%86%e6%9e%90.pdf&algorithm=0)  
+- 卫生费用筹资结构优化
+![](http://files.cn-healthcare.com/upload/20240105/3901704435245534.png)
+
+经常性卫生费用是指当年**实际使用的医疗卫生服务与产品的全部消费金额，更能反映居民医疗卫生服务费用负担情况**。本研究考虑数据完整性和可比性，以2020年数据为主，分析我国经常性卫生总费用发展趋势。2020年经常性卫生费用占总费用的79.49%。  
+
+**2022年人均卫生总费用为6044.09元（898.60美元）**，比2021年增加604.13元。2022年我国个人卫生支出占比已降到27%以下（**算下来个人年支出6044.09*0.2689=1625.3元，占城镇居民人均可支配收入1625.3/45123=3.6%**），但从消除发生家庭灾难性卫生支出的国际经验看仍有一定空间（上限值20%）。个人卫生支出占比明显高于OECD国家平均水平。
+
+- 按费用去向的供能构成
+![](http://files.cn-healthcare.com/upload/20240105/60071704435244963.png)
+
+- 政府财政力度
+2015—2022年，我国政府卫生支出年均增长7.12%，远高于GDP（5.72%）和财政支出（3.18%）的年均增速，占GDP比重由1.81%增至1.99%，**占财政支出比重由7.09%增至9.22%**。反映出在国民经济下行压力较大的背景下，政府卫生投入力度仍在持续加大，特别是2020年，政府卫生支出增速从2019年的8.47%跳增至21.19%。
+同期，一般公共预算卫生健康支出（210科目）中对医疗卫生机构的投入从2015年的52.01%下降到2019年的49.63%，2022年回升到58.22%；对医保的投入（即需方投入）从2015年的47.99%上升到2019年的50.37%，2022年回落到41.78%。可见，疫情之前我国财政卫生健康支出整体体现了“兼顾供给方和需方”，且不断向需方倾斜的趋势。 
+
+- 国际比较
+根据WHO最新统计数据，2015—2021年，在成员国中，我国卫生总费用占GDP比重降序排位由102位上升至90位，人均卫生总费用由81位上升至69位。
+
+从机构配置看，近几年基层医疗卫生机构卫生费用增速较低，占比呈下降趋势，这是长期以来卫生健康供给侧结构性矛盾在卫生费用上的体现。因此，建议持续优化卫生资金配置，投入重点由“以治病为中心”向“以人民健康为中心”，由“重医轻防、防治脱节”向“医防融合、防治并重”转变，有效解决卫生健康事业发展不平衡不充分的问题。
+
+根据不同人群健康风险实施针对性的健康干预措施，调整投入结构，落实疾病早防早治；基于病种费用和干预措施的成本效果分析，确定慢性病控制的优先领域。
 
 [中国已经发生健康贫困的女性化了吗?, 2022](http://www.swg.zju.edu.cn/_upload/article/files/bc/33/c4c1ef5d4cd2baf6996578835499/9f8a9420-39a8-4458-ae2f-8e28a7af606d.pdf)  
 广义健康贫困女性化不仅包含狭义健康贫困女性化的测量内容，还有医疗卫生服务利用个体性别差异、家庭户主性别差异。
