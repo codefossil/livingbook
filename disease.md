@@ -75,6 +75,10 @@
 
 [2020年中国农村贫困监测报告](https://www.baogaoting.com/info/42233)
 
+[家精准扶贫评估理论体系及其实践应用](https://dds.sciengine.com/cfs/files/pdfs/1000-3045/7EA2F7477CFD4C5DBCBE5085D526EE9D.pdf)  
+
+[精准扶贫背景下贫困人口持续脱贫问题研究-基于新疆维吾尔自治区乌恰县的分析](http://www.cjarrp.com/ch/reader/download_pdf_file.aspx?journal_id=zgnyzyyqh&file_name=A8D77C701D04C8817E55F1432BF6DE6DB34590057662B685F44685B57E3F5877757D71751D473BF77ECD2D664C1B4FAEC16B0CBF3009036D6C1B048C377B21FF&open_type=self&file_no=20190927)
+
 [中国减贫四十年：驱动力量、借鉴意义和未来政策方向](https://thedocs.worldbank.org/en/doc/f692402b5b3b21154f103ee64c0c551d-0070012022/original/Poverty-Synthesis-Report-cn.pdf)
 
 [新中国成立后70年的反贫困历程及减贫机制](https://zgncjj.ajcass.com/magazine/show?id=70123&jumpnotice=201606270007)
@@ -95,34 +99,17 @@
 
 坚持全面覆盖、重点核查。采取集中排查、自主申报、日常摸排、部门预警、关联监测等方式，全面收集风险线索，对存在疑似返贫致贫风险的农户进行重点核查，确保不漏一户一人。
 
+[精准扶贫绩效的第三方评估：理论溯源、 作用机理与优化路径](https://xkgc-data.obs.cn-north-1.myhuaweicloud.com/xiaokang/5/5/7221615245700.pdf)  
+
 ## 相对贫困
+
 
 ## 健康疾病负担
 > “救护车一响，一年猪白养；住上一次院，三年活白干；十年努力奔小康，一场大病全泡汤。”这是对大病突袭一个家庭后的形象描述。
 
 [全球健康疾病负担，GBD](https://www.healthdata.org/research-analysis/gbd)
 
-[2022年中国卫生总费用核算结果与分析](https://awsdownload.cqvip.com/downloadpaper/api/v1/pdf/stream/2024/7111310051?infos=QUZBQkFFRkNGQkZBQUVBREJLQUJBREFHQUtCTUFFQUhBT0ZIQk1BSkZIQUZBREJOQUVBRUFDRkhGQ0ZERkVBSEFPQUpGQ0FCQk1BREFBQUNBREJPQUdBQUFDQUFBREFCQUhBQkFFQUFCTUFFQUZBQkJJQUFCT0FCQk1CT0FDQUFBRkFGQk1BQkFHQk1BQkFBQkhBQUFJQUxBQ0FDQUtBRkFCQk9GRkZDRkFGRkFGQUlBQUFKQUpGRkFFRkhBQkZEQU9BREZEQUFBSEFJRkVGREZHQURGQ0ZDRkJBQ0FBQUlBRUFKQk9BQkJNQUJCUEZERko&clientID=205cba43-0279-479f-8d43-353fabd798c0&fileName=2022%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%8d%ab%e7%94%9f%e6%80%bb%e8%b4%b9%e7%94%a8%e6%a0%b8%e7%ae%97%e7%bb%93%e6%9e%9c%e4%b8%8e%e5%88%86%e6%9e%90.pdf&algorithm=0)  
-- 卫生费用筹资结构优化
-![](http://files.cn-healthcare.com/upload/20240105/3901704435245534.png)
-
-经常性卫生费用是指当年**实际使用的医疗卫生服务与产品的全部消费金额，更能反映居民医疗卫生服务费用负担情况**。本研究考虑数据完整性和可比性，以2020年数据为主，分析我国经常性卫生总费用发展趋势。2020年经常性卫生费用占总费用的79.49%。  
-
-**2022年人均卫生总费用为6044.09元（898.60美元）**，比2021年增加604.13元。2022年我国个人卫生支出占比已降到27%以下（**算下来个人年支出6044.09*0.2689=1625.3元，占城镇居民人均可支配收入1625.3/45123=3.6%**），但从消除发生家庭灾难性卫生支出的国际经验看仍有一定空间（上限值20%）。个人卫生支出占比明显高于OECD国家平均水平。
-
-- 按费用去向的供能构成
-![](http://files.cn-healthcare.com/upload/20240105/60071704435244963.png)
-
-- 政府财政力度
-2015—2022年，我国政府卫生支出年均增长7.12%，远高于GDP（5.72%）和财政支出（3.18%）的年均增速，占GDP比重由1.81%增至1.99%，**占财政支出比重由7.09%增至9.22%**。反映出在国民经济下行压力较大的背景下，政府卫生投入力度仍在持续加大，特别是2020年，政府卫生支出增速从2019年的8.47%跳增至21.19%。
-同期，一般公共预算卫生健康支出（210科目）中对医疗卫生机构的投入从2015年的52.01%下降到2019年的49.63%，2022年回升到58.22%；对医保的投入（即需方投入）从2015年的47.99%上升到2019年的50.37%，2022年回落到41.78%。可见，疫情之前我国财政卫生健康支出整体体现了“兼顾供给方和需方”，且不断向需方倾斜的趋势。 
-
-- 国际比较
-根据WHO最新统计数据，2015—2021年，在成员国中，我国卫生总费用占GDP比重降序排位由102位上升至90位，人均卫生总费用由81位上升至69位。
-
-从机构配置看，近几年基层医疗卫生机构卫生费用增速较低，占比呈下降趋势，这是长期以来卫生健康供给侧结构性矛盾在卫生费用上的体现。因此，建议持续优化卫生资金配置，投入重点由“以治病为中心”向“以人民健康为中心”，由“重医轻防、防治脱节”向“医防融合、防治并重”转变，有效解决卫生健康事业发展不平衡不充分的问题。
-
-根据不同人群健康风险实施针对性的健康干预措施，调整投入结构，落实疾病早防早治；基于病种费用和干预措施的成本效果分析，确定慢性病控制的优先领域。
+[1990—2019年中国疾病负担趋势分析]()
 
 [中国已经发生健康贫困的女性化了吗?, 2022](http://www.swg.zju.edu.cn/_upload/article/files/bc/33/c4c1ef5d4cd2baf6996578835499/9f8a9420-39a8-4458-ae2f-8e28a7af606d.pdf)  
 广义健康贫困女性化不仅包含狭义健康贫困女性化的测量内容，还有医疗卫生服务利用个体性别差异、家庭户主性别差异。
@@ -130,3 +117,74 @@
 从个体和家庭户主的性别占比看，健康贫困女性化并未在中国发生; **从家庭户角度考察的卫生服务资源剥夺情况表现出“女户主化”的趋势**。无论是三大慢病还是大病，女户主的就诊次数均少于男配偶，但其 3 年连续就诊率较高。
 
 尝试分析原因是相对较低的社会经济地位和为家“牺牲”的利他主义观念成为阻碍女户主充分利用医疗服务资源的重要因素。
+
+## 卫生健康经济
+![](https://www.pishu.cn/upload/resources/image/2022/07/04/417303_500x500.png)
+
+[2022年我国卫生健康事业发展统计公报]()  
+[2022年中国卫生总费用核算结果与分析](https://awsdownload.cqvip.com/downloadpaper/api/v1/pdf/stream/2024/7111310051?infos=QUZBQkFFRkNGQkZBQUVBREJLQUJBREFHQUtCTUFFQUhBT0ZIQk1BSkZIQUZBREJOQUVBRUFDRkhGQ0ZERkVBSEFPQUpGQ0FCQk1BREFBQUNBREJPQUdBQUFDQUFBREFCQUhBQkFFQUFCTUFFQUZBQkJJQUFCT0FCQk1CT0FDQUFBRkFGQk1BQkFHQk1BQkFBQkhBQUFJQUxBQ0FDQUtBRkFCQk9GRkZDRkFGRkFGQUlBQUFKQUpGRkFFRkhBQkZEQU9BREZEQUFBSEFJRkVGREZHQURGQ0ZDRkJBQ0FBQUlBRUFKQk9BQkJNQUJCUEZERko&clientID=205cba43-0279-479f-8d43-353fabd798c0&fileName=2022%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%8d%ab%e7%94%9f%e6%80%bb%e8%b4%b9%e7%94%a8%e6%a0%b8%e7%ae%97%e7%bb%93%e6%9e%9c%e4%b8%8e%e5%88%86%e6%9e%90.pdf&algorithm=0) 
+
+- 卫生费用筹资结构优化
+![](http://files.cn-healthcare.com/upload/20240105/3901704435245534.png)
+
+经常性卫生费用是指当年**实际使用的医疗卫生服务与产品的全部消费金额，更能反映居民医疗卫生服务费用负担情况**。本研究考虑数据完整性和可比性，以2020年数据为主，分析我国经常性卫生总费用发展趋势。2020年经常性卫生费用占总费用的79.49%。  
+
+**2022年人均卫生总费用为6044.09元（898.60美元）**，比2021年增加604.13元。2022年我国个人卫生支出占比已降到27%以下（**算下来个人年支出6044.09*0.2689=1625.3元，占城镇居民人均可支配收入1625.3/45123=3.6%**），但从消除发生家庭灾难性卫生支出的国际经验看仍有一定空间（上限值20%）。个人卫生支出占比明显高于OECD国家平均水平。（**个人卫生支出费用不高，但是占筹资结构比例高，相较于发达国家**）。  
+
+![](image/2021-who-health-exp.png)
+https://apps.who.int/nha/database/country_profile/Index/en  
+
+- 按费用去向的供能构成
+![](http://files.cn-healthcare.com/upload/20240105/60071704435244963.png)
+
+2020年人均经常性费用是4062.65元，门诊花费4062.65*0.2785=1131.45元，住院花费4062.65*0.4489=1823.72元。  
+
+![](http://www.128870.com/zb_users/upload/2023/10/20231013152717169718203746859.jpeg)  
+2022年，全国医疗卫生机构总就诊人次84.2亿，较2021年有极小幅度下滑，基本与2021年持平。居民平均就诊6.0次。
+
+![](http://www.128870.com/zb_users/upload/2023/10/20231013152718169718203854113.jpeg)
+
+- 政府财政力度
+2015—2022年，我国政府卫生支出年均增长7.12%，远高于GDP（5.72%）和财政支出（3.18%）的年均增速，占GDP比重由1.81%增至1.99%，**占财政支出比重由7.09%增至9.22%**。反映出在国民经济下行压力较大的背景下，政府卫生投入力度仍在持续加大，特别是2020年，政府卫生支出增速从2019年的8.47%跳增至21.19%。
+同期，一般公共预算卫生健康支出（210科目）中对医疗卫生机构的投入从2015年的52.01%下降到2019年的49.63%，2022年回升到58.22%；对医保的投入（即需方投入）从2015年的47.99%上升到2019年的50.37%，2022年回落到41.78%。可见，疫情之前我国财政卫生健康支出整体体现了“兼顾供给方和需方”，且不断向需方倾斜的趋势。 
+
+![](image/che-gpd.png)
+https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-health-expenditure-(che)-as-percentage-of-gross-domestic-product-(gdp)-(-)
+
+![](http://www.128870.com/zb_users/upload/2023/10/20231013152716169718203668646.jpeg)
+
+
+- 国际比较
+根据WHO最新统计数据，2015—2021年，在成员国中，我国卫生总费用占GDP比重降序排位由102位上升至90位，人均卫生总费用由81位上升至69位。
+
+- 问题
+从机构配置看，近几年基层医疗卫生机构卫生费用增速较低，占比呈下降趋势，这是长期以来卫生健康供给侧结构性矛盾在卫生费用上的体现。因此，建议持续优化卫生资金配置，投入重点由“以治病为中心”向“以人民健康为中心”，由“重医轻防、防治脱节”向“医防融合、防治并重”转变，有效解决卫生健康事业发展不平衡不充分的问题。
+
+- 解决方案
+根据不同人群健康风险实施针对性的健康干预措施，调整投入结构，落实疾病早防早治；基于病种费用和干预措施的成本效果分析，确定慢性病控制的优先领域。
+
+[2023年居民收入和消费支出情况](https://www.stats.gov.cn/sj/zxfb/202401/t20240116_1946622.html)  
+![](https://www.stats.gov.cn/sj/zxfb/202401/W020240117385737511010.jpg)
+
+2023年，全国居民人均可支配收入39218元，比上年名义增长6.3%，扣除价格因素，实际增长6.1%。分城乡看，城镇居民人均可支配收入51821元，增长（以下如无特别说明，均为同比名义增长）5.1%。  
+2023年，全国居民人均消费支出26796元，比上年名义增长9.2%，扣除价格因素影响，实际增长9.0%。分城乡看，城镇居民人均消费支出32994元，增长8.6%。  
+
+[我国医保体系研究——支付方为核心](https://pdf.dfcfw.com/pdf/H3_AP202207281576653276_1.pdf)
+
+[上海市2018年经常性卫生费用核算结果分析](https://html.rhhz.net/ZGWSZY/html/2022-4-447.htm#top)  
+
+[Universal health coverage in China: a serial national crosssectional study of surveys from 2003 to 2018](https://www.thelancet.com/action/showPdf?pii=S2468-2667%2822%2900251-1)  
+
+[灾难性自付医疗支出与贫困](https://qks.sufe.edu.cn/J/PDFFull/9f03be49-b3ee-4e02-831a-00a8d43003b5.pdf)  
+
+[欧洲（德、英、法）社会医疗保险体系分析](https://zhuanlan.zhihu.com/p/219924119)  
+
+[中国医院究竟向患者收了多少钱？](https://www.cn-healthcare.com/api/third/article/499621)  
+
+# 人口
+![](http://www.128870.com/zb_users/upload/2023/10/20231013152716169718203686404.jpeg)
+
+[中国健康老龄化之路：北京大学-柳叶刀重大报告](https://nsd.pku.edu.cn/cbw/yjbgxl/528112.htm)  
+2020年到2050年的三十年间，我国人口形势会发生很大变化。60岁以下所有年龄段人群的数量都会净减少，二三十岁年龄段人口会减少30-40%，60岁以上人口数量将有较大涨幅，特别是高龄老人，即80岁以上人口数量上涨幅度最快。
+
+2020年到2050年的三十年间，我国人口形势会发生很大变化。60岁以下所有年龄段人群的数量都会净减少，二三十岁年龄段人口会减少30-40%，60岁以上人口数量将有较大涨幅，特别是高龄老人，即80岁以上人口数量上涨幅度最快。
