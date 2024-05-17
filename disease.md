@@ -109,7 +109,37 @@
 
 [全球健康疾病负担，GBD](https://www.healthdata.org/research-analysis/gbd)
 
+https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys
+
 [1990—2019年中国疾病负担趋势分析]()
+DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the life of the population. It is the primary metric used by the World Health Organization to assess the global burden of disease. 
+
+![](https://www.researchgate.net/profile/Gardine-De-Wit/publication/257136567/figure/fig1/AS:297564302790660@1447956266835/Example-of-DALY-calculation-for-a-deceased-participant-Abbreviations-YLD-Years-Lost.png)
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/NmK0xVuoN0mHj7VORdT0aS7ohY7PLtLaEQhAZQpj.jpeg)  
+非传染病非传染性疾病导致的DALY在全部疾病负担中占比最高，由1990年的60.62%升至2019年的84.93%，而传染病、母婴疾病和营养性疾病及伤害占比则大幅下降。  
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/KUyKK6Rl81e04jkflY3P0vXXX8lN4c5jBhQZYtmn.jpeg)  
+55岁开始，DALY增加较多，心血管疾病、慢性呼吸道占比显著增加。  
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/8bxXcIjv4wR0xMbPar5JhJ0zUSvucDA5U3Q4ocOE.jpeg)  
+2019 年，造成全球与中国 DALY 损失排名前 10 疾病中有 6 大病因相同，包括中风、缺血性心脏病、慢性阻塞性肺疾病、道路交通伤害、
+腰痛和糖尿病。
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/zVsWrfB3oyeOVGfQVyjWYiinEB0mLSlUE8qaRHBx.jpeg)  
+听力损失、腰痛、偏头痛、抑郁症已经成为YLD四大病因。越来越多的工作年龄人口将大部分时间花在办公环境中，缺乏锻炼，导致腰背和颈部相关疾病的发病率增加。
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/GpRoGTlLrMiVPb16oTg30lKjFOQkyDsX4mQsAxAa.jpeg)  
+部分与饮食相关的风险增加，特别是高体重指数。心血管疾病的驱动因素如高收缩压、胆固醇、空腹血糖和饮食不良等风险普遍存在，随着人口老龄化，这一持续负担可能扩大。在不断扩大的中国医疗体系中，针对慢性病（尤其是老年人）的措施应优先考虑。
+
+![](https://yxxz.whuznhmedj.com/storage/attach/2210/rI2eoliXbd4sYFOdZ7FX8tbKh6z9KMYnQWRTfStl.jpeg)  
+
+|   |总体| 男性  |女性|
+|---|---|---|---|
+| 10-24岁  |   |前 10 原因中有 4 个是伤害导致（道路交通伤害、溺水、自我伤害和跌落）  |而偏头痛、两种精神障碍（抑郁和焦虑）、腰痛 |
+| 25-49岁  |   |道路交通伤害 |妇科疾病 |
+| 50~74 岁  | 较 1990 年增加 53.33%  |癌症 |其他肌肉骨骼疾病、抑郁症、关节炎和肺癌 |
+
 
 [中国已经发生健康贫困的女性化了吗?, 2022](http://www.swg.zju.edu.cn/_upload/article/files/bc/33/c4c1ef5d4cd2baf6996578835499/9f8a9420-39a8-4458-ae2f-8e28a7af606d.pdf)  
 广义健康贫困女性化不仅包含狭义健康贫困女性化的测量内容，还有医疗卫生服务利用个体性别差异、家庭户主性别差异。
