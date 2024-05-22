@@ -109,7 +109,29 @@
 
 [全球健康疾病负担，GBD](https://www.healthdata.org/research-analysis/gbd)
 
+[IHME GBD Visualizer](https://vizhub.healthdata.org/gbd-results/#error=access_denied&error_description=AADB2C90091%3a+The+user+has+cancelled+entering+self-asserted+information.%0d%0aCorrelation+ID%3a+303afe72-ba97-4e6c-a335-8e4835b83f32%0d%0aTimestamp%3a+2024-05-20+11%3a12%3a56Z%0d%0a&state=eyJpZCI6IjljNTU2MDFkLWM0YjEtNDM1Ny04NGJkLTdjY2U4MTU3OTU1ZSIsIm1ldGEiOnsiaW50ZXJhY3Rpb25UeXBlIjoicmVkaXJlY3QifX0%3d%7c%7b%22mode%22%3a%22signup%22%7d)  
+
+![](image/ihme-all-cause.png)  
+总体全年龄段DALY都在下降，但是近年来50岁以下降辐平稳，甚至有抬头，导致全年龄段值抬升。  
+
+![](image/ihme-all-cause-by-age.png)  
+DALY 15-39是11685，40+就翻倍了；50+开始高于全年龄段水平。  
+
+![](image/ihme-death-all-cause-by-age.png)  
+DEATH 50+开始翻倍，60+开始高于全年龄水平。  
+全年龄死亡率是千分之7.8，。  
+
 https://www.who.int/data/gho/data/themes/mortality-and-global-health-estimates/global-health-estimates-leading-causes-of-dalys
+
+![](image/ihme-daly-level2-cause-by-age.png)  
+心血管疾病、肿瘤、肌肉骨骼疾病、精神障碍这4类疾病，对DALY占比一大半。  
+45+感觉器官疾病  
+65+糖尿病激增  
+每个年龄段，精神类疾病占比基本不变。
+
+![](image/ihme-death-level2-cause-by-age.png)  
+关于死亡率方面，心血管疾病、肿瘤仍然是2大杀手。  
+60+慢性呼吸道疾病、糖尿病和肾病占比逐渐增大。  
 
 [1990—2019年中国疾病负担趋势分析]()
 DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the life of the population. It is the primary metric used by the World Health Organization to assess the global burden of disease. 
@@ -120,7 +142,7 @@ DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the l
 非传染病非传染性疾病导致的DALY在全部疾病负担中占比最高，由1990年的60.62%升至2019年的84.93%，而传染病、母婴疾病和营养性疾病及伤害占比则大幅下降。  
 
 ![](https://yxxz.whuznhmedj.com/storage/attach/2210/KUyKK6Rl81e04jkflY3P0vXXX8lN4c5jBhQZYtmn.jpeg)  
-55岁开始，DALY增加较多，心血管疾病、慢性呼吸道占比显著增加。  
+50岁开始，DALY率超过平均值，心血管疾病、慢性呼吸道占比显著增加。  
 
 ![](https://yxxz.whuznhmedj.com/storage/attach/2210/8bxXcIjv4wR0xMbPar5JhJ0zUSvucDA5U3Q4ocOE.jpeg)  
 2019 年，造成全球与中国 DALY 损失排名前 10 疾病中有 6 大病因相同，包括中风、缺血性心脏病、慢性阻塞性肺疾病、道路交通伤害、
@@ -140,6 +162,7 @@ DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the l
 | 25-49岁  |   |道路交通伤害 |妇科疾病 |
 | 50~74 岁  | 较 1990 年增加 53.33%  |癌症 |其他肌肉骨骼疾病、抑郁症、关节炎和肺癌 |
 
+[《中国心血管健康与疾病报告 2022》要点解读]()
 
 [中国已经发生健康贫困的女性化了吗?, 2022](http://www.swg.zju.edu.cn/_upload/article/files/bc/33/c4c1ef5d4cd2baf6996578835499/9f8a9420-39a8-4458-ae2f-8e28a7af606d.pdf)  
 广义健康贫困女性化不仅包含狭义健康贫困女性化的测量内容，还有医疗卫生服务利用个体性别差异、家庭户主性别差异。
@@ -147,6 +170,11 @@ DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the l
 从个体和家庭户主的性别占比看，健康贫困女性化并未在中国发生; **从家庭户角度考察的卫生服务资源剥夺情况表现出“女户主化”的趋势**。无论是三大慢病还是大病，女户主的就诊次数均少于男配偶，但其 3 年连续就诊率较高。
 
 尝试分析原因是相对较低的社会经济地位和为家“牺牲”的利他主义观念成为阻碍女户主充分利用医疗服务资源的重要因素。
+
+[如何理解流行病学调查中校正的“率 ”](https://www.chinacirculation.org/UploadFile/Issue/5jss1dyi.pdf)  
+![](image/quantitive-ci-ui.png)
+
+通常由于人们在生理、心理、社会等各个方面的变化会综合反应于性别和年龄，因而健康结局在不同的性别、年龄中都会存在差异。这也就是流行病学中常常被提及的混杂因素。需要以一个“标准人群”对所研究人群的率在各年龄层进行调整，控制多个“混杂”因素，在“平衡”多个因素后来比较率的大小。  
 
 ## 卫生健康经济
 ![](https://www.pishu.cn/upload/resources/image/2022/07/04/417303_500x500.png)
@@ -213,6 +241,9 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-healt
 
 # 人口
 ![](http://www.128870.com/zb_users/upload/2023/10/20231013152716169718203686404.jpeg)
+
+[2020中国统计年鉴](https://www.stats.gov.cn/sj/ndsj/2020/indexch.htm)  
+![](https://www.stats.gov.cn/sj/ndsj/2020/html/C0209.jpg)
 
 [中国健康老龄化之路：北京大学-柳叶刀重大报告](https://nsd.pku.edu.cn/cbw/yjbgxl/528112.htm)  
 2020年到2050年的三十年间，我国人口形势会发生很大变化。60岁以下所有年龄段人群的数量都会净减少，二三十岁年龄段人口会减少30-40%，60岁以上人口数量将有较大涨幅，特别是高龄老人，即80岁以上人口数量上涨幅度最快。
