@@ -180,6 +180,16 @@ DALY=YLD+YLL，The DALY estimates how much disease affects (‘burdens’) the l
 ![](https://www.pishu.cn/upload/resources/image/2022/07/04/417303_500x500.png)
 
 [2022年我国卫生健康事业发展统计公报]()  
+![](http://www.128870.com/zb_users/upload/2023/10/20231013152717169718203746859.jpeg)  
+2022年，全国医疗卫生机构总就诊人次84.2亿，较2021年有极小幅度下滑，基本与2021年持平。居民平均就诊6.0次。  
+
+2022年，职工医保基金（含生育保险）统筹基金（含生育保险）当期结存3601.77亿元，累计结存（含生育保险）21393.11亿元。  
+2022年，个人账户当期结存1947.71亿元，累计结存13712.65亿元。
+
+2022年，职工医保参保人员住院率17.6%，比上年提高0.6个百分点。其中：在职职工住院率为10%，比上年提高0.5个百分点；**退休人员住院率为38.6%**，比上年提高0.7个百分点。全国职工医保**次均住院费用为12884元**，比上年下降0.5%。  
+
+职工医保住院费用目录内基金支付比例84.2%。（2019年职工医保政策范围内住院费用基金支付85.8%，实际住院费用基金支付75.6%，个人负担24.4%）  
+
 [2022年中国卫生总费用核算结果与分析](https://awsdownload.cqvip.com/downloadpaper/api/v1/pdf/stream/2024/7111310051?infos=QUZBQkFFRkNGQkZBQUVBREJLQUJBREFHQUtCTUFFQUhBT0ZIQk1BSkZIQUZBREJOQUVBRUFDRkhGQ0ZERkVBSEFPQUpGQ0FCQk1BREFBQUNBREJPQUdBQUFDQUFBREFCQUhBQkFFQUFCTUFFQUZBQkJJQUFCT0FCQk1CT0FDQUFBRkFGQk1BQkFHQk1BQkFBQkhBQUFJQUxBQ0FDQUtBRkFCQk9GRkZDRkFGRkFGQUlBQUFKQUpGRkFFRkhBQkZEQU9BREZEQUFBSEFJRkVGREZHQURGQ0ZDRkJBQ0FBQUlBRUFKQk9BQkJNQUJCUEZERko&clientID=205cba43-0279-479f-8d43-353fabd798c0&fileName=2022%e5%b9%b4%e4%b8%ad%e5%9b%bd%e5%8d%ab%e7%94%9f%e6%80%bb%e8%b4%b9%e7%94%a8%e6%a0%b8%e7%ae%97%e7%bb%93%e6%9e%9c%e4%b8%8e%e5%88%86%e6%9e%90.pdf&algorithm=0) 
 
 - 卫生费用筹资结构优化
@@ -195,10 +205,7 @@ https://apps.who.int/nha/database/country_profile/Index/en
 - 按费用去向的供能构成
 ![](http://files.cn-healthcare.com/upload/20240105/60071704435244963.png)
 
-2020年人均经常性费用是4062.65元，门诊花费4062.65*0.2785=1131.45元，住院花费4062.65*0.4489=1823.72元。  
-
-![](http://www.128870.com/zb_users/upload/2023/10/20231013152717169718203746859.jpeg)  
-2022年，全国医疗卫生机构总就诊人次84.2亿，较2021年有极小幅度下滑，基本与2021年持平。居民平均就诊6.0次。
+2020年人均经常性费用是4062.65元，门诊花费4062.65*0.2785=1131.45元，住院花费4062.65x0.4489=1823.72元。  
 
 ![](http://www.128870.com/zb_users/upload/2023/10/20231013152718169718203854113.jpeg)
 
@@ -227,7 +234,18 @@ https://www.who.int/data/gho/data/indicators/indicator-details/GHO/current-healt
 2023年，全国居民人均可支配收入39218元，比上年名义增长6.3%，扣除价格因素，实际增长6.1%。分城乡看，城镇居民人均可支配收入51821元，增长（以下如无特别说明，均为同比名义增长）5.1%。  
 2023年，全国居民人均消费支出26796元，比上年名义增长9.2%，扣除价格因素影响，实际增长9.0%。分城乡看，城镇居民人均消费支出32994元，增长8.6%。  
 
-[我国医保体系研究——支付方为核心](https://pdf.dfcfw.com/pdf/H3_AP202207281576653276_1.pdf)
+[我国医保体系研究——支付方为核心](https://pdf.dfcfw.com/pdf/H3_AP202207281576653276_1.pdf)  
+[一篇文章搞清医保，以成都为例，含真实报销案例详解，建议收藏](https://zhuanlan.zhihu.com/p/476785111)  
+![](image/health-insure.drawio.png)
+
+[基本医疗保险医疗服务设施项目范围](https://ylbzj.sc.gov.cn/scsybj/nc040100/2020/4/17/dfe5e5565b4a410f881c58c4008d8fe4.shtml)  
+[四川省基本医疗保险诊疗项目目录](https://ylbzj.sc.gov.cn/scsybj/nc040100/2020/4/17/e75194770a7645e5abc27b838b23c52a.shtml)  
+[基本医疗保险用药管理暂行办法](https://ylbzj.sc.gov.cn/scsybj/nc010105/2021/12/31/54dd401893024ede874e2d73de811a63/files/%E5%9F%BA%E6%9C%AC%E5%8C%BB%E7%96%97%E4%BF%9D%E9%99%A9%E7%94%A8%E8%8D%AF%E7%AE%A1%E7%90%86%E6%9A%82%E8%A1%8C%E5%8A%9E%E6%B3%95%EF%BC%88%E5%9B%BD%E5%AE%B6%E5%8C%BB%E7%96%97%E4%BF%9D%E9%9A%9C%E5%B1%80%E4%BB%A4%E7%AC%AC1%E5%8F%B7%EF%BC%89.pdf)  
+[成都市医疗保障局关于印发《成都市基本医疗保险门诊特殊疾病管理办法》的通知](https://cdyb.chengdu.gov.cn/ylbzj/c128998/2020-10/16/content_c9caaf3f77cd4e878d1b0249bba52647.shtml)  
+
+[成都市重特大疾病医疗保险和救助制度实施办法](https://cdyb.chengdu.gov.cn/ylbzj/c128992/2024-04/15/dfdb5bea26024b33a1dd352d5f072414/files/7fb61bc1a1b84485b6f658b100a25238.pdf)  
+特困、孤儿、低保、农村易返贫致贫、因病致贫重病患者。  
+![](https://www.gov.cn/zhengce/jiedu/tujie/202404/W020240405588943544761_ORIGIN.JPG)
 
 [上海市2018年经常性卫生费用核算结果分析](https://html.rhhz.net/ZGWSZY/html/2022-4-447.htm#top)  
 
