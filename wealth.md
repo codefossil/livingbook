@@ -12,6 +12,10 @@ http://sociologyol.ruc.edu.cn/index.
 
 如果按照我们比较优势来发展，中国式现代化的目标以及高质量发展的五个维度都能够同时实现。
 
+[洪永淼：中国经济学之路](https://soe.xmu.edu.cn/old/info/1104/13684.htm)  
+
+[荣兆梓 等：谁是主流，西方经济学还是政治经济学？](https://www.kunlunce.com/llyj/fl1/2023-12-31/174333.html)
+
 # 消费
 
 [当代中国的消费主义现象：消费革命抑或过度消费?](http://sociologyol.ruc.edu.cn/shxyj/fzshx/jjshx/d094964d6e2742d68ef06f2fac261045.htm)

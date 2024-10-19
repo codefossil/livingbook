@@ -189,8 +189,8 @@ d1=胸+腹肌、d2=背、休息1天、d3=大腿+小腿、d4=肩、d5=手臂+腹�
 [增肌训练的周期化训练专题2：线性化训练周期](https://zhuanlan.zhihu.com/p/619536917)  
 
 
-
-
+躯干：哑铃/平板杠铃/胸推，引体/澳式引体，坐姿肩推，划船/T杆，chest dip  
+四肢：深蹲、罗马尼亚硬拉，高脚杯、硬拉，二头弯举、卷腹  
 
 ## 举重、哑铃、器械、自由锻炼
 
@@ -228,7 +228,6 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 [肩袖肌群训练详解](https://www.bilibili.com/video/BV1yW421A7rn)
 ![](https://i1.hoopchina.com.cn/hupuapp/bbs/128768668341633/thread_128768668341633_20200918165243_s_298458_w_1280_h_1650_45082.jpg)
 
-
 ### 上半身
 
 
@@ -237,12 +236,6 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 
 [如何做一个标准的俯卧撑](https://www.westridgeperformance.com/strength-training/6145381)
 
-|   |   |    |
-|---|---|---|
-| 臂屈伸  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)，![](https://www.burnthefatinnercircle.com/members/images/1093g.jpg?cb=20240110024242)|
-| 哑铃胸推| ![](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQXrpUWwUSDRy6cPhFCEiOh5fL7-ltQHp1Usw&usqp=CAU)|
-| 划船  | ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2016/10/Bent-over-barbell-row.png)|
-| 肱三头肌支撑  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)|
 
 #### 胸部
 ![](https://www.jianshen8.com/uploads/allimg/130719/2_130719142907_3.jpg)
@@ -254,6 +247,7 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 | 上斜哑铃卧推| ![](https://weighttraining.guide/wp-content/uploads/2016/11/incline-dumbbell-bench-press-resized.png)|上胸
 | 交叉夹胸  | ![](https://fitnessvolt.com/wp-content/uploads/2019/05/cable-crossover-1024x576.jpg)|上述中间交叉
 | 俯卧撑  | ![](https://www.westridgeperformance.com/uploads/1/3/3/6/133610164/pushup-muscle_orig.jpg)|
+| chest dip  | ![](https://cdn-0.weighttraining.guide/wp-content/uploads/2016/05/Triceps-Dip-resized.png?ezimgfmt=ng%3Awebp%2Fngcb4)，![](https://www.burnthefatinnercircle.com/members/images/1093g.jpg?cb=20240110024242)|
 
 #### 背部
 
@@ -261,7 +255,6 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 
 | |   |    |
 |---|---|---|
-| 硬拉  | ![](https://d3gjxtgqyywct8.cloudfront.net/o2o/image/ac01bb9e-fec2-4d34-a26a-914f69a35f60.jpg)，![](https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png)|
 | 引体向上| ![](https://weighttraining.guide/wp-content/uploads/2021/09/Chin-up.png)，![](https://weighttraining.guide/wp-content/uploads/2016/10/pull-up-2-resized.png)|反手练背阔肌，正手练大圆肌, 也可以做手臂直立激活
 | 划船/T杆  | ![](https://static.wixstatic.com/media/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg/v1/fill/w_720,h_545,al_c,lg_1,q_85/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg), ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2023/08/Chest-supported-underhand-grip-t-bar-row.png)|速度更重要
 |窄/宽手下拉, 坐姿平拉|![](https://weighttraining.guide/wp-content/uploads/2016/10/Cable-close-grip-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/Seated-cable-row-new-resized.png)|
@@ -314,13 +307,13 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 | 垂式彎舉  | ![](https://gymxuan.files.wordpress.com/2018/09/6.jpg)|
 | 哑铃农夫行走  | ![](https://mmbiz.qpic.cn/mmbiz_gif/Tia9oKjKIibgwCOJMT2ZSTsPh0WM3QUO78qU4RqgnBibJDS9vNa19eGzm6N7fiapzSVib9QyIS89LvXG6YO2dJicb3UA/640?wx_fmt=gif&wxfrom=5&wx_lazy=1)|
 
-
 ### 臀腿
 ![](https://ibestidea.com/wp-content/uploads/2021/11/%E8%85%98%E7%BB%B3%E8%82%8C.jpeg)
 
 |  |   |    |
 |---|---|---|
 | 深蹲练习  | ![](https://weighttraining.guide/wp-content/uploads/2016/10/barbell-squat-resized-FIXED-2.png)|
+| 硬拉  | ![](https://d3gjxtgqyywct8.cloudfront.net/o2o/image/ac01bb9e-fec2-4d34-a26a-914f69a35f60.jpg)，![](https://weighttraining.guide/wp-content/uploads/2016/10/Barbell-Romanian-Deadlift.png)|
 | 坐姿推腿  | ![](https://training.fit/wp-content/uploads/2020/03/beinpresse.png)|
 | 弯腿  | ![](https://fitnessvolt.com/wp-content/uploads/2019/04/dumbbell-leg-curl.jpg), ![](https://weighttraining.guide/wp-content/uploads/2016/05/lever-leg-extension-resized.png)|
 | 小腿弯举  | ![](https://www.mybodycreator.com/content/files/2023/05/28/422_M.png)|
