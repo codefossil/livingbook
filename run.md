@@ -129,9 +129,11 @@ Maximizing Muscle Hypertrophy: A Systematic Review of Advanced Resistance Traini
 
 有氧运动与力量训练要间隔至少2-3小时。
 
-d1=胸+肱三头肌、d2=背+肱二头肌、d3=腿+肩
-
-d1=胸+腹肌、d2=背、休息1天、d3=大腿+小腿、d4=肩、d5=手臂+腹肌、休息2天
+|   |   |
+|---|---|
+| 二分化  | d1=胸+上下腹+三头, d2=背+二头, d3=腿深蹲、硬拉+肩中束、后束  |
+| 二分化  | d1=腿深蹲、硬拉+肩中束, d2=胸+上下腹+三头、d3=背+肩后束+二头|
+| 五分化  | d1=胸+腹肌、d2=背、休息1天、d3=大腿+小腿、d4=肩、d5=手臂+腹肌、休息2天  |
 
 ## 组数、强度、频率
 ![](https://theathletesphysique.com/wp-content/uploads/2024/02/percentages-of-1RM-Athletes-Physique.png)
@@ -255,9 +257,10 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 
 | |   |    |
 |---|---|---|
-| 引体向上| ![](https://weighttraining.guide/wp-content/uploads/2021/09/Chin-up.png)，![](https://weighttraining.guide/wp-content/uploads/2016/10/pull-up-2-resized.png)|反手练背阔肌，正手练大圆肌, 也可以做手臂直立激活
 | 划船/T杆  | ![](https://static.wixstatic.com/media/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg/v1/fill/w_720,h_545,al_c,lg_1,q_85/6c49c9_348010ef833e4d10962f25036da6a882~mv2.jpg), ![](https://hips.hearstapps.com/hmg-prod/images/bent-over-row-1590133418.jpg), ![](https://weighttraining.guide/wp-content/uploads/2023/08/Chest-supported-underhand-grip-t-bar-row.png)|速度更重要
 |窄/宽手下拉, 坐姿平拉|![](https://weighttraining.guide/wp-content/uploads/2016/10/Cable-close-grip-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/wide-grip-lat-pull-down-resized.png), ![](https://weighttraining.guide/wp-content/uploads/2016/05/Seated-cable-row-new-resized.png)|
+| 引体向上| ![](https://weighttraining.guide/wp-content/uploads/2021/09/Chin-up.png)，![](https://weighttraining.guide/wp-content/uploads/2016/10/pull-up-2-resized.png)|反手练背阔肌，正手练大圆肌, 也可以做手臂直立激活
+| 绳索下压| ![](https://fitfabguide.com/wp-content/uploads/2024/06/Kneeling-Cable-Pullover-1024x536.jpg)|容量为主
 | hyper y/w/山羊挺  | ![](https://athleanx.com/wp-content/uploads/2019/07/hyper-y-w-combo-exercise.png), ![](https://weighttraining.guide/wp-content/uploads/2016/10/45-degree-hyperextension.png)|竖脊肌和臀部肌肉
 
 #### 肩部
@@ -286,7 +289,7 @@ https://hacker1356.wordpress.com/2020/12/27/%E5%B8%B8%E7%94%A8%E5%81%A5%E8%BA%AB
 | 拉力器三角拉伸  | ![](https://pic2.zhimg.com/80/v2-22aa01692c2095bc9ec7e6d713cd8a3d_1440w.webp), ![](https://fitnessvolt.com/wp-content/uploads/2018/04/cable-one-arm-front-raise.jpg), |保持肘关节刚性，3组21响，中、后、前
 | 借力侧平举| ![](https://p1.itc.cn/images01/20220606/2587dd91388f4d3da4e9d90e6e7a2d18.png),![](https://static.vecteezy.com/system/resources/previews/023/686/436/original/man-doing-seated-bent-over-rear-delt-raises-exercise-vector.jpg)|
 |坐姿反向飞鸟| ![](https://cdn.shopify.com/s/files/1/1633/7705/files/reverse_pec_deck_flye_480x480.png?v=1642827419)|
-|面拉| ![](https://weighttraining.guide/wp-content/uploads/2016/10/Face-pull-resized.png)|慢做
+|面拉| ![](https://weighttraining.guide/wp-content/uploads/2016/10/Face-pull-resized.png)|慢做，主打肩后束，小圆，岗下肌
 
 
 #### 手臂
