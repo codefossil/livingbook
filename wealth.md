@@ -4,7 +4,17 @@ http://sociologyol.ruc.edu.cn/index.
 
 [《世界经济黄皮书：2023年世界经济形势分析与预测》](http://iwep.cssn.cn/xscg/xscg_zzjyz/202212/t20221231_5577037.shtml)
 
-# 经济
+# 中国经济
+
+[中国经济, Naughton](https://book.douban.com/subject/34919491/)    
+
+[置身事内](https://book.douban.com/subject/35546622/)  
+
+[权力结构、政治激励和经济增长, ](https://book.douban.com/subject/26762440/)  
+
+当代中国经济改革教程
+
+
 [中国经济新动能｜专访林毅夫：如何理解中国当前经济遇到的挑战](https://www.nse.pku.edu.cn/sylm/xwsd/533985.htm)  
 经济学都是盛行一时的理论，但要记得它只是盛行一时。实际上理论是帮助我们认识世界、改造世界的工具，让我们看到当前世界的问题在哪里，把背后的道理讲清楚，用来指导我们的实践。  
 

@@ -58,6 +58,13 @@
 
 [The Principia: Mathematical Principles of Natural Philosophy, isaac1687](https://book.douban.com/subject/1507315/)
 
+[科学通史](https://book.douban.com/subject/36223179/)  
+
+[科学哲学导论](https://book.douban.com/subject/36289859/) 
+
+[科学通史:从哲学到功用](https://book.douban.com/subject/36223179/)  
+
+[控制论与科学方法论](https://book.douban.com/subject/37235927/)  
 
 https://ocw.mit.edu/courses/science-technology-and-society/sts-003-the-rise-of-modern-science-fall-2010/syllabus/
 https://ocw.mit.edu/courses/science-technology-and-society/sts-310-history-of-science-fall-2015/syllabus/
@@ -100,6 +107,13 @@ https://en.wikipedia.org/wiki/Branches_of_science
 # 从科学素质到学科核心素养
 
 # 哲学
+
+如果人类从来不理性，那社会启蒙运动怎么起源的？(生物学、心理学、文化学)
+如果人类是理性的，为什么非理性的行为是如何产生的？
+
+[世界哲学史, 施杜里希](https://book.douban.com/subject/36579675/)  
+
+[中国哲学简史，冯友兰](https://book.douban.com/subject/35089550/)  
 
 [想透彻, 阿皮亚2017](https://book.douban.com/subject/27167590/)
 

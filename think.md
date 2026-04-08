@@ -31,6 +31,8 @@ https://www.open.edu/openlearn/ocw/mod/oucontent/view.php?id=20033&section=1.1
 >
 > 我们自身的智慧通过情感（精神）和直觉（身体的本能反应）发挥作用
 
+[Algorithms to Live By The Computer Science of Human Decisions 指导工作与生活的算法](https://book.douban.com/subject/30155731/)
+
 # 思考、推理、解决问题
 
 [Mindware: A Theory of Learnable Intelligence](https://nesslabs.com/mindware)
