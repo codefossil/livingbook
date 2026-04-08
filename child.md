@@ -1,3 +1,12 @@
+
+# 教育理论
+
+[教育与国家形成: 英、法、美教育体系起源之比较](https://book.douban.com/subject/1541657/)  
+
+[教育问题史, 布鲁巴克](https://book.douban.com/subject/19987534/)
+
+[中国教育史, 张传燧2010](https://book.douban.com/subject/4292918/)
+
 # 教养、亲子关系
 
 [全脑教养法，siegel2012](https://book.douban.com/subject/22224887/)

@@ -1,40 +1,6 @@
-[北大社会学系](http://www.shehui.pku.edu.cn/)
-
-http://sociologyol.ruc.edu.cn/index.
-
-[《世界经济黄皮书：2023年世界经济形势分析与预测》](http://iwep.cssn.cn/xscg/xscg_zzjyz/202212/t20221231_5577037.shtml)
-
-# 中国经济
-
-[中国经济, Naughton](https://book.douban.com/subject/34919491/)    
-
-[置身事内](https://book.douban.com/subject/35546622/)  
-
-[权力结构、政治激励和经济增长, ](https://book.douban.com/subject/26762440/)  
-
-当代中国经济改革教程
 
 
-[中国经济新动能｜专访林毅夫：如何理解中国当前经济遇到的挑战](https://www.nse.pku.edu.cn/sylm/xwsd/533985.htm)  
-经济学都是盛行一时的理论，但要记得它只是盛行一时。实际上理论是帮助我们认识世界、改造世界的工具，让我们看到当前世界的问题在哪里，把背后的道理讲清楚，用来指导我们的实践。  
-
-经济发展的本质要提高生产力，要提高收入水平，实际上是一个结构不断变迁的过程，从低生产力水平的结构变成高生产力水平的结构的一个过程。  
-
-如果按照我们比较优势来发展，中国式现代化的目标以及高质量发展的五个维度都能够同时实现。
-
-[洪永淼：中国经济学之路](https://soe.xmu.edu.cn/old/info/1104/13684.htm)  
-
-[荣兆梓 等：谁是主流，西方经济学还是政治经济学？](https://www.kunlunce.com/llyj/fl1/2023-12-31/174333.html)
-
-# 消费
-
-[当代中国的消费主义现象：消费革命抑或过度消费?](http://sociologyol.ruc.edu.cn/shxyj/fzshx/jjshx/d094964d6e2742d68ef06f2fac261045.htm)
-
-[工作、消费主义和新穷人](https://book.douban.com/subject/35593780/)
-
-[大道至“简”：极简主义消费内涵解构与理论阐释](https://journal.psych.ac.cn/xlkxjz/article/2021/1671-3710/1671-3710-29-11-2043.shtml)
-
-# 财富
+# 财富观念
 
 [金钱心理学](https://book.douban.com/subject/36415996/)
 
@@ -65,3 +31,107 @@ http://sociologyol.ruc.edu.cn/index.
 
 [穷爸爸、富爸爸](https://book.douban.com/subject/1033778/)
 
+# 消费
+
+[当代中国的消费主义现象：消费革命抑或过度消费?](http://sociologyol.ruc.edu.cn/shxyj/fzshx/jjshx/d094964d6e2742d68ef06f2fac261045.htm)
+
+[工作、消费主义和新穷人](https://book.douban.com/subject/35593780/)
+
+[大道至“简”：极简主义消费内涵解构与理论阐释](https://journal.psych.ac.cn/xlkxjz/article/2021/1671-3710/1671-3710-29-11-2043.shtml)
+
+
+# 自我、性格与职业规划
+
+[填报志愿：远见与想象力](https://www.gotopku.cn/index/detail/505.html)  
+我认为专业本质就是一组课程，学生通过大学专业学习形成大脑中的一个知识结构，所以选择专业就是选择未来自己的知识结构。
+
+[斯坦福大学人生设计课](https://book.douban.com/subject/27601926/)   
+[设计你的工作和人生](https://book.douban.com/subject/35578313/)
+
+![](image/design-life.drawio.png)
+
+大多数人大部分时间都在工作，因此本书大部分时候都在分析职场。  
+
+有80%的人并不是真的很了解自己的激情所在。如果是为了设计出你热爱的人生，那么你没有必要知道自己对什么充满激情。  
+
+这本书到目前都出了3版了，解决方案还是没有稳定下来，一方面是疫情给全球带来了很大的影响，另一方面也说明生活需要处理的情况太多了。  
+
+[工作：巨变时代的现状、挑战与未来](https://book.douban.com/subject/35686239/)
+
+
+
+https://www.mayoclinic.org/
+
+[State of The Global Workplace 2022 Report](https://bluesyemre.com/2022/07/05/state-of-the-global-workplace-2022-report/)
+
+![](https://assets.weforum.org/editor/qyN-aPhfWQfeEdrMGWvR9_x2LTuBMLIgyc8ifrNT_hI.png)
+
+员工幸福感指数，在疫情后不再增长，2017年这个指数是15%。  
+
+[Global Workforce Hopes and Fears Survey 2022](https://www.pwc.com/gx/en/hopes-and-fears/downloads/global-workforce-hopes-and-fears-survey-2022-v2.pdf)
+
+[NACE Job Outlook](https://www.naceweb.org/talent-acquisition/trends-and-predictions/future-forward-key-issues-and-recommendations-for-success-in-2022/)
+
+![](https://www.naceweb.org/uploadedImages/images/2022/chart/Figure-1-Attributes-employers-seek-on-a-candidates-resume-961x600.png)
+
+[UCLA职业规划和探索](https://career.ucla.edu/undergrad/career-planning-and-exploration)
+
+[UCLA职业指南](https://career.ucla.edu/file/ba8f1de4-c80d-4ccb-90c3-ad8c91a604e3)
+
+[美国劳工Occupational Outlook Handbook](https://www.bls.gov/ooh/)
+
+[艾瑞咨询-2022年中国大学生学习与发展白皮书-220415](https://pdf.dfcfw.com/pdf/H3_AP202204151559406158_1.pdf?1650033123000.pdf)
+
+[大学生职业生涯发展与规划]()
+
+[职业的选择]()
+
+[毕业不失业职业生涯步步高]()
+
+职业倦怠
+
+生产资料：销售、报告、计划和预算、项目、产品与服务  
+流程：工作流程、程序、晋升和职业发展的路径、沟通  
+人力：平易近人、直率真诚真实、可靠、机密、同理心、亲和力、诚信度、情商和自制力  
+
+
+[Turnaround for Child, brizard2016](https://turnaroundusa.org/what-we-do/tools/building-blocks/)  
+
+![](image/building-block.png)
+
+
+[LOUISIANA HIGH SCHOOL PLANNING GUIDEBOOK](https://www.louisianabelieves.com/docs/default-source/course-choice/high-school-planning-guidebook.pdf?sfvrsn=36)
+
+[盖洛普优势识别器 2.0]()
+
+[MBTI](https://www.16personalities.com/ch/%E7%B1%BB%E5%9E%8B%E6%8F%8F%E8%BF%B0)
+
+[在线工具-人格测试](https://www.zxgj.cn/g/dawujianban)
+
+[高敏感是种天赋]()
+
+[The road back to you]()
+
+[专注力就是你的超能力]()
+
+[安静 内向性格的竞争力](https://book.douban.com/subject/11601993/)
+
+[自尊](https://book.douban.com/subject/30408726/)
+
+[活出最乐观的自己](https://book.douban.com/subject/4934590/)
+
+[发现你的天赋]()
+
+![](image/aptitude.drawio.png)
+本书其实讲的是The element，一种充分发挥自身优势和热情的状态。
+核心是通过了解自身人格，SWOT分析后，调整自身的状态。
+
+[九型人格]()
+
+[人性的弱点]()
+
+# 投资
+
+[股市进阶之道：一个散户的自我修养](https://book.douban.com/subject/26427930/)  
+
+[股市真规则](https://book.douban.com/subject/1728725/)  
