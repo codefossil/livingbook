@@ -1,4 +1,17 @@
 
+
+
+[中国史纲，张荫麟1940](https://book.douban.com/subject/1055347/)  
+
+
+# 近现代
+
+[现代中国的形成（1600—1949）, 李怀印2012](https://book.douban.com/subject/36957900/)
+
+# 考古学
+
+[古代中国考古学, 张光直](https://book.douban.com/subject/21323611/)
+
 # 历史
 
 [中国历史精神，钱穆1951](https://book.douban.com/subject/10435397/)

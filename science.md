@@ -121,6 +121,8 @@ https://en.wikipedia.org/wiki/Branches_of_science
 
 [Nobel02, Kahneman](https://www.nobelprize.org/prizes/economic-sciences/2002/kahneman/facts/)
 
+[正义：一场思辨之旅](https://book.douban.com/subject/30321791/)
+
 
 ![](https://res.ailemon.net/blog/2019/20191202-5.png?x-oss-process=style/ailemon-blog-watermark-pic)
 

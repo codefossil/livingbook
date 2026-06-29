@@ -11,8 +11,8 @@
 * [:rocket: 认知、哲学、科学](science.md) 
 
 # 社会、国家治理
-* [:moneybag: 中国经济、产业、城市与经济](economy.md) 
-* [:man_cook: 中国历史、地方志与历史](history.md) 
+* [:moneybag: 经济、产业、城市与经济](economy.md) 
+* [:man_cook: 历史、地方志与历史](history.md) 
 * [:man_cook: 权力与政治、法律](political.md)  
 
 # 当今个人生活
@@ -21,7 +21,7 @@
 * [:weight_lifting_man: 科学健身与人体](run.md) 
 * [:baby: 教育理论、儿童发展、亲子培养](child.md)
 
-# 当今中国实证
+# 中国实证
 * [:earth_asia: 中国可持续发展](disease.md)
 * [:earth_asia: 中国社会](society.md)
 * [:earth_asia: 中国教育](edu.md)

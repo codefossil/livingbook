@@ -1,3 +1,9 @@
+
+![](image/economy.drawio.png)
+
+[分析与思考: 黄奇帆的复旦经济课](https://book.douban.com/subject/35149551/)
+
+
 [北大社会学系](http://www.shehui.pku.edu.cn/)
 
 http://sociologyol.ruc.edu.cn/index.
@@ -6,7 +12,9 @@ http://sociologyol.ruc.edu.cn/index.
 
 # 中国经济
 
-[中国经济, Naughton](https://book.douban.com/subject/34919491/)    
+[中国经济：适应与增长, Naughton](https://book.douban.com/subject/34919491/)    
+
+[变革中国](https://book.douban.com/subject/20366370/)  
 
 [置身事内](https://book.douban.com/subject/35546622/)  
 
@@ -26,3 +34,11 @@ http://sociologyol.ruc.edu.cn/index.
 
 [荣兆梓 等：谁是主流，西方经济学还是政治经济学？](https://www.kunlunce.com/llyj/fl1/2023-12-31/174333.html)
 
+# 中央与地方
+[中县干部]()
+
+[以利为利：财政关系与地方政府行为](https://book.douban.com/subject/10587755/)
+
+[危机与重构: 唐帝国及其地方诸侯](https://book.douban.com/subject/26603137/)
+
+[渐行渐近的金融周期](https://book.douban.com/subject/27053704/)
