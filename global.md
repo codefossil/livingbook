@@ -1,3 +1,4 @@
+**跳出单一国家和学科的局限，以全球为视角或者大历史的视角来重新讲述人类和宇宙的故事。**
 
 ![](image/global.drawio.png)
 
@@ -11,35 +12,37 @@
 
 [全球通史, 斯波德克Howard Spodek](https://book.douban.com/subject/30398015/)  
 
-[世界政治：趋势与变革](https://book.douban.com/subject/30407289/)  
+# 宇宙
+
+[极简宇宙史](https://book.douban.com/subject/26697350/)
 
 # 人类进化
+
+[演化 跨越40亿年的生命记录](https://book.douban.com/subject/6750347/)
+
+[复杂生命的起源](https://book.douban.com/subject/35221093/)
+
+[医学史，卡斯蒂廖尼](https://book.douban.com/subject/24753678/)
 
 [人类简史, 赫拉利](https://book.douban.com/subject/37295054/)  
 
 [未来简史](https://book.douban.com/subject/37294999/)
 
-[生命3.0]()
 
-# 当今社会
+# 全球治理
 
-[今日简史](https://book.douban.com/subject/37295025/)
+[世界政治：趋势与变革](https://book.douban.com/subject/30407289/)  
 
-[历史学与社会理论](https://book.douban.com/subject/34842935/)  
-
-[发现社会, 西方社会学思想述评](https://book.douban.com/subject/25924609/)  
-
-[家庭、私有制和国家的起源](https://book.douban.com/subject/27194805/)  
-
-# 宗教、战争和地缘
-[芯片战争, 米勒](https://book.douban.com/subject/36350632/)  
-
-# 战略和国家安全
-
-
-
-# 人类可持续发展
+[今日简史](https://book.douban.com/subject/37295025/)  
 
 [以自由看待发展, 阿马蒂亚·森02](https://book.douban.com/subject/1084434/)  
 
-[贫困与饥荒, 阿马蒂亚·森2001](https://book.douban.com/subject/1340525/)
+# 认知
+
+[20世纪思想史](https://book.douban.com/subject/34449288/)
+
+[科学通史](https://book.douban.com/subject/36223179/)
+
+[世界科学技术通史](https://book.douban.com/subject/35217126/)
+
+[宗教思想史](https://book.douban.com/subject/1176241/)

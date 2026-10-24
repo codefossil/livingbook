@@ -50,6 +50,8 @@
 波普的证伪主义=证实证据太难+反复经历明确的预言推敲。  
 工具主义=科学理论的主要任务是解释和预言相关数据，而是否反映事物的真实情况不重要。  
 
+[芯片战争, 米勒](https://book.douban.com/subject/36350632/)  
+
 [大师说科学与哲学](https://book.douban.com/subject/27041829/)
 
 [具体数学](https://book.douban.com/subject/21323941/)
@@ -57,8 +59,6 @@
 [哥德尔、艾舍尔、巴赫](https://book.douban.com/subject/1291204/)
 
 [The Principia: Mathematical Principles of Natural Philosophy, isaac1687](https://book.douban.com/subject/1507315/)
-
-[科学通史](https://book.douban.com/subject/36223179/)  
 
 [科学哲学导论](https://book.douban.com/subject/36289859/) 
 

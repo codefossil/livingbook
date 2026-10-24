@@ -3,6 +3,8 @@
 
 [中国史纲，张荫麟1940](https://book.douban.com/subject/1055347/)  
 
+[中国近代史，蒋廷黻](https://book.douban.com/subject/26755822/)
+
 # 巴蜀
 
 ![](image/basu.drawio.png)
@@ -17,9 +19,35 @@
 
 [蜀道三千里，穿越古今的一部史诗](https://www.news.cn/sikepro/20230726/823e5c9b0b124f7982bf74f31cc9c863/c.html)
 
+# 明清
+
+[万历十五年，黄仁宇1982](https://book.douban.com/subject/26418524/)
+
+[中国的奋斗](https://book.douban.com/subject/36526876/)
+
+[康熙的红票，孙立天2024](https://book.douban.com/subject/36794613/)
+
 # 近现代
 
+[天朝的崩溃](https://book.douban.com/subject/25935941/)
+
 [现代中国的形成（1600—1949）, 李怀印2012](https://book.douban.com/subject/36957900/)
+
+[近代中国社会的新陈代谢，陈旭麓2017](https://book.douban.com/subject/30147582/)
+
+# 中国共产党、毛泽东思想
+
+[毛泽东传，逄先知](https://book.douban.com/subject/6116167/)  
+
+[毛泽东选集](https://book.douban.com/subject/1125026/)
+
+[共产党宣言，卡尔马克思1848](https://book.douban.com/subject/36586444/)
+
+[中国共产党历史](https://book.douban.com/subject/5923025/)
+
+# 女性
+
+[记忆的性别 : 农村妇女和中国集体化历史](https://book.douban.com/subject/27030380/)
 
 # 考古学
 
