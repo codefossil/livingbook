@@ -14,7 +14,7 @@
 * [:moneybag: 经济、产业、工业](economy.md) ![](https://progress-bar.xyz/10?show_text=false&width=50) 
 * [:man_cook: 历史、地方志](history.md)  ![](https://progress-bar.xyz/20?show_text=false&width=50) 
 * [:man_cook: 政治、法律、国家治理](political.md) ![](https://progress-bar.xyz/10?show_text=false&width=50)   
-* [:man_cook: 军事、国家安全](political.md) ![](https://progress-bar.xyz/0?show_text=false&width=50)
+* [:man_cook: 军事、国家安全](war.md) ![](https://progress-bar.xyz/0?show_text=false&width=50)
 
 # 当今个人生活
 * [:kiss: 幸福地活着、了解自己、控制情绪](living.md) ![](https://progress-bar.xyz/70?show_text=false&width=50)   
